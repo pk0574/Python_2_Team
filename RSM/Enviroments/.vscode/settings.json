@@ -1,0 +1,5 @@
+{
+    // 다른 설정들…
+    "python.venvPath": "D:/Git/Python_2_Team/RSM/Enviroments",// ← 이 줄을 추가
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"  // 또는 "Git Bash"
+}
