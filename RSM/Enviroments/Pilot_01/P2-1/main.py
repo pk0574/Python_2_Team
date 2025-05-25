@@ -40,16 +40,19 @@ def try_password(password, id):
             #    pwd 인자는 bytes 타입이어야 합니다.
             zf.extractall(path=output_dir, pwd=password)
         
-        logger.info("[{0}]압축 해제 완료: {1} -{2}-".format(id, output_dir, password))
+        logger.info("[{0}]압축 해제 완료: {1} -{2}-".format(id, output_dir, password.decode()))
         res = True
     except RuntimeError as e:
         # 비밀번호가 틀린 경우 zipfile.BadZipFile 또는 RuntimeError 발생
-        logger.info("[{0}]압축 해제 실패 1: -{1}-".format(id, password))
+        logger.info("[{0}]압축 해제 실패 1: -{1}-".format(id, password.decode()))
+        # print("[{0}]압축 해제 실패 1: -{1}-".format(id, password))
     except zipfile.BadZipFile:
         #print("[{0}]압축 해제 실패. ZIP 파일이 손상되었거나, 올바른 ZIP 파일이 아닙니다.".format(id))
-        logger.info("[{0}]압축 해제 실패 2: -{1}-".format(id, password))
+        logger.info("[{0}]압축 해제 실패 2: -{1}-".format(id, password.decode()))
+        # print("[{0}]압축 해제 실패 2: -{1}-".format(id, password))
     finally:
-
+        # print(password)
+        
         return res
 
         
@@ -59,15 +62,16 @@ def worker(mutex, worker_num, thread_num, thread_safe):
     thread_num += 1
 
     gap = round(max_val/worker_num)
-    st_num = gap*thread_num
-    _num = st_num
-    print("스레드 {0}: {1}\n".format(thread_num, st_num))
+    start = gap*thread_num
+    current = start
+    print("스레드 {0}: {1}\n".format(thread_num, start))
 
-    while st_num <= max_val and st_num <= st_num+gap:
-        st_num += 1
+    end = min(start + gap, max_val)
+    while current < end:
+        current += 1
             
         try:
-            pwd = int_to_base36(st_num)
+            pwd = int_to_base36(current)
         except Exception as e:
             print("Error: {e}")
             logger.info("Error: {e}")
@@ -89,7 +93,7 @@ def worker(mutex, worker_num, thread_num, thread_safe):
         now = time.time()
         if now - last_print >= 5:
             elapsed = str(datetime.timedelta(seconds=round(now-start_time)))
-            print("[{0}] 경과 시간 : {1} - 진행률 {2:5.1f}%".format(thread_num, elapsed, st_num/_num+gap))
+            print("[{0}] 경과 시간 : {1} - 진행률 {2:5.1f}%".format(thread_num, elapsed, current/(start+gap)))
             last_print = now
 
 
@@ -102,24 +106,29 @@ if __name__ == "__main__":
     mutex =Lock()
 
     n = input("스레드 개수 설정: ")
+    # print(try_password(n,0))
+    # n = input("스레드 개수 설정: ")
+    # n = int(n)
+    # print(int_to_base36(n))
+
     try:
-        n = int(n)
+       n = int(n)
     except ValueError:
-        n = 2
+       n = 2
     except TypeError:
-        n = 2
+       n = 2
 
     if n < 2:
-        n = 2
+       n = 2
     
     print("스레드 개수 : {0}".format(n))
 
     for i in range(n):
-        t = Thread(target=worker, args=(mutex, n, i, thread_safe))
-        t.start()
-        threads.append(t)
+       t = Thread(target=worker, args=(mutex, n, i, thread_safe))
+       t.start()
+       threads.append(t)
 
     for t in threads:
-        t.join()
+       t.join()
 
     

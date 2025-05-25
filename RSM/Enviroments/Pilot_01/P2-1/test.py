@@ -26,7 +26,12 @@ def worker(zip_path, output_dir, start, end, chars):
         zf.setpassword(pwd)
 
         # **비밀번호 검증만 수행** (디스크에 쓰지 않음)
-        bad_file = zf.testzip()
+        bad_file = 0
+        try:
+            bad_file = zf.testzip()
+        except Exception as e:
+            None
+        
         if bad_file is None:
             # 모든 파일 CRC 체크 통과 → 진짜 압축 해제
             found_password = pwd.decode('utf-8')
@@ -75,7 +80,7 @@ def brute_force_multi(zip_path, output_dir, num_threads=4):
 if __name__ == '__main__':
     ZIP_FILE    = '2-1-emergency_storage_key.zip'
     OUTPUT_DIR  = 'extracted'
-    THREAD_COUNT = 2
+    THREAD_COUNT = 256
     
     brute_force_multi(ZIP_FILE, OUTPUT_DIR, THREAD_COUNT)
 
