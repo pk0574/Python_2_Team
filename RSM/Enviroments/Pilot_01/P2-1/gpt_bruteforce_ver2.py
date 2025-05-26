@@ -14,7 +14,7 @@ ZIP_PATH     = '2-1-emergency_storage_key.zip'
 OUTPUT_DIR   = 'P2-1/extracted_files'
 CHARSET      = string.digits + string.ascii_lowercase
 MAX_VAL      = 36 ** 6
-THREAD_COUNT = max(os.cpu_count() * 4, 30)
+THREAD_COUNT = min(os.cpu_count() * 2, 30)
 LOG_FILE     = './P2-1/bruteforce.log'
 
 # ======================================
@@ -182,3 +182,54 @@ if __name__ == '__main__':
     else:
         logger.info("Password not found.")
         print("[-] Password not found.")
+
+# ======================================
+# Multiprocessing version
+# ======================================
+import multiprocessing as mp
+
+def mp_worker(start, end, flag, result_ns):
+    try:
+        zf = zipfile.ZipFile(ZIP_PATH)
+    except Exception as e:
+        return
+    for i in range(start, end):
+        if flag.is_set():
+            break
+        pwd_str = int_to_base36(i)
+        pwd_bytes = pwd_str.encode('utf-8')
+        zf.setpassword(pwd_bytes)
+        try:
+            bad = zf.testzip()
+        except (RuntimeError, zlib.error):
+            continue
+        if bad is None:
+            result_ns.password = pwd_str
+            flag.set()
+            break
+    zf.close()
+
+if __name__ == '__main__':
+    # Setup multiprocessing
+    cpu_cnt = mp.cpu_count()
+    manager = mp.Manager()
+    found_flag = manager.Event()
+    result_ns = manager.Namespace()
+    procs = []
+    chunk = MAX_VAL // cpu_cnt
+    for idx in range(cpu_cnt):
+        s = idx * chunk
+        e = (idx+1)*chunk if idx < cpu_cnt-1 else MAX_VAL
+        p = mp.Process(target=mp_worker, args=(s, e, found_flag, result_ns))
+        p.start()
+        procs.append(p)
+    for p in procs:
+        p.join()
+
+    if hasattr(result_ns, 'password'):
+        print(f"[MP] Password found: {result_ns.password}")
+        with zipfile.ZipFile(ZIP_PATH) as zf:
+            zf.extractall(path=OUTPUT_DIR, pwd=result_ns.password.encode('utf-8'))
+        print(f"[MP] Files extracted to '{OUTPUT_DIR}'")
+    else:
+        print("[MP] Password not found.")

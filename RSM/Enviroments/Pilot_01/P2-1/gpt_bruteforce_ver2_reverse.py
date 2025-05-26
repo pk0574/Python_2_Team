@@ -6,6 +6,7 @@ import zlib
 import time
 import logging
 import sys
+import multiprocessing as mp
 
 # ======================================
 # Configuration
@@ -14,7 +15,7 @@ ZIP_PATH     = '2-1-emergency_storage_key.zip'
 OUTPUT_DIR   = 'P2-1/extracted_files'
 CHARSET      = string.digits + string.ascii_lowercase
 MAX_VAL      = 36 ** 6
-THREAD_COUNT = max(os.cpu_count() * 4, 30)
+THREAD_COUNT = min(os.cpu_count() * 2, 30)
 LOG_FILE     = './P2-1/bruteforce.log'
 
 # ======================================
@@ -49,7 +50,7 @@ found_password = None
 lock = threading.Lock()
 
 # ======================================
-# Worker thread
+# Worker thread (reverse order)
 # ======================================
 def worker(start: int, end: int, thread_idx: int):
     global found_password
@@ -63,8 +64,9 @@ def worker(start: int, end: int, thread_idx: int):
         logger.error(f"ZIP 열기 실패: {e}")
         return
 
-    logger.info(f"{thread_name} 범위 {start}~{end} 시작")
-    for i in range(start, end):
+    logger.info(f"{thread_name} 범위 {start}~{end} 시작 (역순)")
+    # iterate from end-1 down to start
+    for i in range(end-1, start-1, -1):
         if found_event.is_set():
             break
 
@@ -86,37 +88,32 @@ def worker(start: int, end: int, thread_idx: int):
                     print(f"[*] {thread_name} found password: {pwd_str}")
             break
 
-        # Update progress
+        # Update progress in reverse
         now = time.time()
-        progress[thread_idx] = (i - start) / (end - start) * 100
+        progress[thread_idx] = ((end-1 - i) / (end - start)) * 100
         elapsed_time[thread_idx] = now - start_time
 
     zf.close()
     logger.info(f"{thread_name} 종료")
 
 # ======================================
-# Monitor thread: display per-thread progress and overall progress
+# Monitor thread: display per-thread and overall progress
 # ======================================
 def monitor():
     monitor_start = time.time()
-    # Initial display of thread grid and overall
-    # Clear screen lines equal to grid rows + 1 overall line
     rows = (THREAD_COUNT + 3) // 4
-    # Print empty grid
+    # Initial grid
     for start in range(1, THREAD_COUNT+1, 4):
         line = ''
         for tid in range(start, min(start+4, THREAD_COUNT+1)):
             line += f"T{tid}:   0.00% el: 00:00:00    "
         sys.stdout.write(line.rstrip() + "\n")
-    # Print initial overall line
     sys.stdout.write("Overall progress: 0.00% elapsed: 00:00:00\n")
     sys.stdout.flush()
 
     while not found_event.is_set():
-        # Move cursor up to redraw
-        sys.stdout.write(f"[{rows+1}F")
+        sys.stdout.write(f"\033[{rows+1}F")
         now = time.time()
-        # Per-thread rows
         for start in range(1, THREAD_COUNT+1, 4):
             line = ''
             for tid in range(start, min(start+4, THREAD_COUNT+1)):
@@ -127,7 +124,6 @@ def monitor():
                 elapsed_str = f"{h:02d}:{m:02d}:{s:02d}"
                 line += f"T{tid}: {pr:6.2f}% el: {elapsed_str}    "
             sys.stdout.write(line.rstrip() + "\n")
-        # Overall
         overall = sum(progress.values()) / THREAD_COUNT
         total_elapsed = now - monitor_start
         h, rem = divmod(int(total_elapsed), 3600)
@@ -138,21 +134,19 @@ def monitor():
         time.sleep(5)
 
 # ======================================
-# Main execution
+# Main execution (threaded)
 # ======================================
 if __name__ == '__main__':
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    logger.info(f"브루트포스 시작 with {THREAD_COUNT} threads")
-    print(f"Starting brute-force with {THREAD_COUNT} threads...")
+    logger.info(f"브루트포스 시작 with {THREAD_COUNT} threads (역순)")
+    print(f"Starting brute-force with {THREAD_COUNT} threads (reverse)...")
 
     chunk = MAX_VAL // THREAD_COUNT
     threads = []
 
-    # Start monitor thread
     mon = threading.Thread(target=monitor, daemon=True)
     mon.start()
 
-    # Start worker threads
     for idx in range(THREAD_COUNT):
         start = idx * chunk
         end = (idx + 1) * chunk if idx < THREAD_COUNT - 1 else MAX_VAL
@@ -160,25 +154,18 @@ if __name__ == '__main__':
         t.start()
         threads.append(t)
 
-    # Wait for workers to finish
     for t in threads:
         t.join()
 
-    # Signal monitor to finish
     found_event.set()
     mon.join(0)
 
-    # Final output
     if found_password:
         print(f"[+] Password found: {found_password}")
-        try:
-            with zipfile.ZipFile(ZIP_PATH) as zf:
-                zf.extractall(path=OUTPUT_DIR, pwd=found_password.encode('utf-8'))
-            logger.info(f"Files extracted to '{OUTPUT_DIR}'")
-            print(f"[+] Files extracted to '{OUTPUT_DIR}'")
-        except Exception as e:
-            logger.error(f"최종 추출 실패: {e}")
-            print(f"Extraction failed: {e}")
+        with zipfile.ZipFile(ZIP_PATH) as zf:
+            zf.extractall(path=OUTPUT_DIR, pwd=found_password.encode('utf-8'))
+        logger.info(f"Files extracted to '{OUTPUT_DIR}'")
+        print(f"[+] Files extracted to '{OUTPUT_DIR}'")
     else:
         logger.info("Password not found.")
         print("[-] Password not found.")
