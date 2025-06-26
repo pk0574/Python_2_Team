@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>내 첫 홈페이지</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f0f0f0;
+      padding: 50px;
+      margin: 0;
+    }
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 40px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .text-section {
+      flex: 1;
+      text-align: left;
+    }
+    .video-section {
+      flex: 1;
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+    }
+    video {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    input[type="file"] {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="text-section">
+      <h1>환영합니다!</h1>
+      <p>수어번역프로그램.</p>
+      <p>왼쪽에는 텍스트, 오른쪽에는 선택한 영상이 표시됩니다.</p>
+    </div>
+    <div class="video-section">
+      <label for="videoFile">🎥 영상 파일 불러오기:</label><br />
+      <input type="file" id="videoFile" accept="video/*" />
+      <video id="videoPlayer" controls></video>
+    </div>
+  </div>
+
+  <script>
+    const videoInput = document.getElementById('videoFile');
+    const videoPlayer = document.getElementById('videoPlayer');
+
+    videoInput.addEventListener('change', function () {
+      const file = this.files[0];
+      if (file) {
+        const fileURL = URL.createObjectURL(file);
+        videoPlayer.src = fileURL;
+        videoPlayer.load();
+        videoPlayer.play();
+      }
+    });
+  </script>
+</body>
+</html>
