@@ -18,7 +18,7 @@ FONT_PATH = "fonts/D2Coding-Ver1.3.2-20180524.ttf"
 font = ImageFont.truetype(FONT_PATH, 24)
 
 # ─── 2) 클래스(라벨) 로드 ───────────────────────────────────────
-with open('sample_train/data/label_group.json', encoding='utf-8') as f:
+with open('reference/label_group.json', encoding='utf-8') as f:
     label_dict = json.load(f)
 items   = sorted(label_dict.items(), key=lambda x: int(x[0]))
 classes = [v['attribute'] for _, v in items]
@@ -26,7 +26,7 @@ classes = list(dict.fromkeys(classes))
 print("▶ classes:", classes, len(classes))
 
 # ─── 3) TFLite 모델 준비 ────────────────────────────────────────
-interpreter = tf.lite.Interpreter(model_path='hearing_impaired_helper_make_model/models/multi_hand_gesture_classifier.tflite')
+interpreter = tf.lite.Interpreter(model_path='reference/models/multi_hand_gesture_classifier.tflite')
 interpreter.allocate_tensors()
 inp_det = interpreter.get_input_details()[0]
 out_det = interpreter.get_output_details()[0]
