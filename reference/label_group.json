@@ -1,0 +1,4002 @@
+{
+  "1": {
+    "video_name": "NIA_SL_WORD0001_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "고민",
+    "duration": 4.867,
+    "start_sec": 1.743,
+    "end_sec": 3.103
+  },
+  "2": {
+    "video_name": "NIA_SL_WORD0001_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "고민",
+    "duration": 4.867,
+    "start_sec": 1.743,
+    "end_sec": 3.103
+  },
+  "3": {
+    "video_name": "NIA_SL_WORD0001_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "고민",
+    "duration": 4.867,
+    "start_sec": 1.743,
+    "end_sec": 3.103
+  },
+  "4": {
+    "video_name": "NIA_SL_WORD0001_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "고민",
+    "duration": 4.867,
+    "start_sec": 1.743,
+    "end_sec": 3.103
+  },
+  "5": {
+    "video_name": "NIA_SL_WORD0001_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "고민",
+    "duration": 4.867,
+    "start_sec": 1.743,
+    "end_sec": 3.103
+  },
+  "6": {
+    "video_name": "NIA_SL_WORD0002_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "뻔뻔",
+    "duration": 4.434,
+    "start_sec": 1.831,
+    "end_sec": 3.361
+  },
+  "7": {
+    "video_name": "NIA_SL_WORD0002_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "뻔뻔",
+    "duration": 4.434,
+    "start_sec": 1.831,
+    "end_sec": 3.361
+  },
+  "8": {
+    "video_name": "NIA_SL_WORD0002_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "뻔뻔",
+    "duration": 4.434,
+    "start_sec": 1.831,
+    "end_sec": 3.361
+  },
+  "9": {
+    "video_name": "NIA_SL_WORD0002_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "뻔뻔",
+    "duration": 4.434,
+    "start_sec": 1.831,
+    "end_sec": 3.361
+  },
+  "10": {
+    "video_name": "NIA_SL_WORD0002_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "뻔뻔",
+    "duration": 4.434,
+    "start_sec": 1.831,
+    "end_sec": 3.361
+  },
+  "11": {
+    "video_name": "NIA_SL_WORD0003_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "수어",
+    "duration": 3.134,
+    "start_sec": 1.052,
+    "end_sec": 2.138
+  },
+  "12": {
+    "video_name": "NIA_SL_WORD0003_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "수어",
+    "duration": 3.134,
+    "start_sec": 1.052,
+    "end_sec": 2.138
+  },
+  "13": {
+    "video_name": "NIA_SL_WORD0003_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "수어",
+    "duration": 3.134,
+    "start_sec": 1.052,
+    "end_sec": 2.138
+  },
+  "14": {
+    "video_name": "NIA_SL_WORD0003_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "수어",
+    "duration": 3.134,
+    "start_sec": 1.052,
+    "end_sec": 2.138
+  },
+  "15": {
+    "video_name": "NIA_SL_WORD0003_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "수어",
+    "duration": 3.134,
+    "start_sec": 1.052,
+    "end_sec": 2.138
+  },
+  "16": {
+    "video_name": "NIA_SL_WORD0004_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "남아",
+    "duration": 3.934,
+    "start_sec": 1.331,
+    "end_sec": 2.861
+  },
+  "17": {
+    "video_name": "NIA_SL_WORD0004_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "남아",
+    "duration": 3.934,
+    "start_sec": 1.331,
+    "end_sec": 2.861
+  },
+  "18": {
+    "video_name": "NIA_SL_WORD0004_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "남아",
+    "duration": 3.934,
+    "start_sec": 1.331,
+    "end_sec": 2.861
+  },
+  "19": {
+    "video_name": "NIA_SL_WORD0004_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "남아",
+    "duration": 3.934,
+    "start_sec": 1.331,
+    "end_sec": 2.861
+  },
+  "20": {
+    "video_name": "NIA_SL_WORD0004_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "남아",
+    "duration": 3.934,
+    "start_sec": 1.331,
+    "end_sec": 2.861
+  },
+  "21": {
+    "video_name": "NIA_SL_WORD0005_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "눈",
+    "duration": 3.967,
+    "start_sec": 1.234,
+    "end_sec": 2.855
+  },
+  "22": {
+    "video_name": "NIA_SL_WORD0005_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "눈",
+    "duration": 3.967,
+    "start_sec": 1.234,
+    "end_sec": 2.855
+  },
+  "23": {
+    "video_name": "NIA_SL_WORD0005_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "눈",
+    "duration": 3.967,
+    "start_sec": 1.234,
+    "end_sec": 2.855
+  },
+  "24": {
+    "video_name": "NIA_SL_WORD0005_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "눈",
+    "duration": 3.967,
+    "start_sec": 1.234,
+    "end_sec": 2.855
+  },
+  "25": {
+    "video_name": "NIA_SL_WORD0005_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "눈",
+    "duration": 3.967,
+    "start_sec": 1.234,
+    "end_sec": 2.855
+  },
+  "26": {
+    "video_name": "NIA_SL_WORD0006_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "독신",
+    "duration": 4.034,
+    "start_sec": 1.248,
+    "end_sec": 2.778
+  },
+  "27": {
+    "video_name": "NIA_SL_WORD0006_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "독신",
+    "duration": 4.034,
+    "start_sec": 1.248,
+    "end_sec": 2.778
+  },
+  "28": {
+    "video_name": "NIA_SL_WORD0006_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "독신",
+    "duration": 4.034,
+    "start_sec": 1.248,
+    "end_sec": 2.778
+  },
+  "29": {
+    "video_name": "NIA_SL_WORD0006_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "독신",
+    "duration": 4.034,
+    "start_sec": 1.248,
+    "end_sec": 2.778
+  },
+  "30": {
+    "video_name": "NIA_SL_WORD0006_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "독신",
+    "duration": 4.034,
+    "start_sec": 1.248,
+    "end_sec": 2.778
+  },
+  "31": {
+    "video_name": "NIA_SL_WORD0007_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "음료수",
+    "duration": 4.567,
+    "start_sec": 1.847,
+    "end_sec": 3.507
+  },
+  "32": {
+    "video_name": "NIA_SL_WORD0007_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "음료수",
+    "duration": 4.567,
+    "start_sec": 1.847,
+    "end_sec": 3.507
+  },
+  "33": {
+    "video_name": "NIA_SL_WORD0007_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "음료수",
+    "duration": 4.567,
+    "start_sec": 1.847,
+    "end_sec": 3.507
+  },
+  "34": {
+    "video_name": "NIA_SL_WORD0007_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "음료수",
+    "duration": 4.567,
+    "start_sec": 1.847,
+    "end_sec": 3.507
+  },
+  "35": {
+    "video_name": "NIA_SL_WORD0007_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "음료수",
+    "duration": 4.567,
+    "start_sec": 1.847,
+    "end_sec": 3.507
+  },
+  "36": {
+    "video_name": "NIA_SL_WORD0008_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "발가락",
+    "duration": 3.934,
+    "start_sec": 1.122,
+    "end_sec": 2.886
+  },
+  "37": {
+    "video_name": "NIA_SL_WORD0008_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "발가락",
+    "duration": 3.934,
+    "start_sec": 1.122,
+    "end_sec": 2.886
+  },
+  "38": {
+    "video_name": "NIA_SL_WORD0008_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "발가락",
+    "duration": 3.934,
+    "start_sec": 1.122,
+    "end_sec": 2.886
+  },
+  "39": {
+    "video_name": "NIA_SL_WORD0008_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "발가락",
+    "duration": 3.934,
+    "start_sec": 1.122,
+    "end_sec": 2.886
+  },
+  "40": {
+    "video_name": "NIA_SL_WORD0008_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "발가락",
+    "duration": 3.934,
+    "start_sec": 1.122,
+    "end_sec": 2.886
+  },
+  "41": {
+    "video_name": "NIA_SL_WORD0009_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "슬프다",
+    "duration": 4.367,
+    "start_sec": 1.438,
+    "end_sec": 3.372
+  },
+  "42": {
+    "video_name": "NIA_SL_WORD0009_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "슬프다",
+    "duration": 4.367,
+    "start_sec": 1.438,
+    "end_sec": 3.372
+  },
+  "43": {
+    "video_name": "NIA_SL_WORD0009_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "슬프다",
+    "duration": 4.367,
+    "start_sec": 1.438,
+    "end_sec": 3.372
+  },
+  "44": {
+    "video_name": "NIA_SL_WORD0009_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "슬프다",
+    "duration": 4.367,
+    "start_sec": 1.438,
+    "end_sec": 3.372
+  },
+  "45": {
+    "video_name": "NIA_SL_WORD0009_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "슬프다",
+    "duration": 4.367,
+    "start_sec": 1.438,
+    "end_sec": 3.372
+  },
+  "46": {
+    "video_name": "NIA_SL_WORD0010_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "자극",
+    "duration": 4.5,
+    "start_sec": 1.793,
+    "end_sec": 3.596
+  },
+  "47": {
+    "video_name": "NIA_SL_WORD0010_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "자극",
+    "duration": 4.5,
+    "start_sec": 1.793,
+    "end_sec": 3.596
+  },
+  "48": {
+    "video_name": "NIA_SL_WORD0010_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "자극",
+    "duration": 4.5,
+    "start_sec": 1.793,
+    "end_sec": 3.596
+  },
+  "49": {
+    "video_name": "NIA_SL_WORD0010_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "자극",
+    "duration": 4.5,
+    "start_sec": 1.793,
+    "end_sec": 3.596
+  },
+  "50": {
+    "video_name": "NIA_SL_WORD0010_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "자극",
+    "duration": 4.5,
+    "start_sec": 1.793,
+    "end_sec": 3.596
+  },
+  "51": {
+    "video_name": "NIA_SL_WORD0011_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "안타깝다",
+    "duration": 3.734,
+    "start_sec": 1.17,
+    "end_sec": 2.791
+  },
+  "52": {
+    "video_name": "NIA_SL_WORD0011_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "안타깝다",
+    "duration": 3.734,
+    "start_sec": 1.17,
+    "end_sec": 2.791
+  },
+  "53": {
+    "video_name": "NIA_SL_WORD0011_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "안타깝다",
+    "duration": 3.734,
+    "start_sec": 1.17,
+    "end_sec": 2.791
+  },
+  "54": {
+    "video_name": "NIA_SL_WORD0011_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "안타깝다",
+    "duration": 3.734,
+    "start_sec": 1.17,
+    "end_sec": 2.791
+  },
+  "55": {
+    "video_name": "NIA_SL_WORD0011_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "안타깝다",
+    "duration": 3.734,
+    "start_sec": 1.17,
+    "end_sec": 2.791
+  },
+  "56": {
+    "video_name": "NIA_SL_WORD0012_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "어색하다",
+    "duration": 3.967,
+    "start_sec": 1.468,
+    "end_sec": 2.919
+  },
+  "57": {
+    "video_name": "NIA_SL_WORD0012_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "어색하다",
+    "duration": 3.967,
+    "start_sec": 1.468,
+    "end_sec": 2.919
+  },
+  "58": {
+    "video_name": "NIA_SL_WORD0012_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "어색하다",
+    "duration": 3.967,
+    "start_sec": 1.468,
+    "end_sec": 2.919
+  },
+  "59": {
+    "video_name": "NIA_SL_WORD0012_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "어색하다",
+    "duration": 3.967,
+    "start_sec": 1.468,
+    "end_sec": 2.919
+  },
+  "60": {
+    "video_name": "NIA_SL_WORD0012_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "어색하다",
+    "duration": 3.967,
+    "start_sec": 1.468,
+    "end_sec": 2.919
+  },
+  "61": {
+    "video_name": "NIA_SL_WORD0013_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "여아",
+    "duration": 3.434,
+    "start_sec": 1.001,
+    "end_sec": 2.413
+  },
+  "62": {
+    "video_name": "NIA_SL_WORD0013_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "여아",
+    "duration": 3.434,
+    "start_sec": 1.001,
+    "end_sec": 2.413
+  },
+  "63": {
+    "video_name": "NIA_SL_WORD0013_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "여아",
+    "duration": 3.434,
+    "start_sec": 1.001,
+    "end_sec": 2.413
+  },
+  "64": {
+    "video_name": "NIA_SL_WORD0013_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "여아",
+    "duration": 3.434,
+    "start_sec": 1.001,
+    "end_sec": 2.413
+  },
+  "65": {
+    "video_name": "NIA_SL_WORD0013_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "여아",
+    "duration": 3.434,
+    "start_sec": 1.001,
+    "end_sec": 2.413
+  },
+  "66": {
+    "video_name": "NIA_SL_WORD0014_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "외국인",
+    "duration": 4.967,
+    "start_sec": 1.856,
+    "end_sec": 3.633
+  },
+  "67": {
+    "video_name": "NIA_SL_WORD0014_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "외국인",
+    "duration": 4.967,
+    "start_sec": 1.856,
+    "end_sec": 3.633
+  },
+  "68": {
+    "video_name": "NIA_SL_WORD0014_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "외국인",
+    "duration": 4.967,
+    "start_sec": 1.856,
+    "end_sec": 3.633
+  },
+  "69": {
+    "video_name": "NIA_SL_WORD0014_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "외국인",
+    "duration": 4.967,
+    "start_sec": 1.856,
+    "end_sec": 3.633
+  },
+  "70": {
+    "video_name": "NIA_SL_WORD0014_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "외국인",
+    "duration": 4.967,
+    "start_sec": 1.856,
+    "end_sec": 3.633
+  },
+  "71": {
+    "video_name": "NIA_SL_WORD0015_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "영아",
+    "duration": 3.734,
+    "start_sec": 1.053,
+    "end_sec": 2.661
+  },
+  "72": {
+    "video_name": "NIA_SL_WORD0015_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "영아",
+    "duration": 3.734,
+    "start_sec": 1.053,
+    "end_sec": 2.661
+  },
+  "73": {
+    "video_name": "NIA_SL_WORD0015_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "영아",
+    "duration": 3.734,
+    "start_sec": 1.053,
+    "end_sec": 2.661
+  },
+  "74": {
+    "video_name": "NIA_SL_WORD0015_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "영아",
+    "duration": 3.734,
+    "start_sec": 1.053,
+    "end_sec": 2.661
+  },
+  "75": {
+    "video_name": "NIA_SL_WORD0015_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "영아",
+    "duration": 3.734,
+    "start_sec": 1.053,
+    "end_sec": 2.661
+  },
+  "76": {
+    "video_name": "NIA_SL_WORD0016_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "신사",
+    "duration": 4.8,
+    "start_sec": 1.61,
+    "end_sec": 3.492
+  },
+  "77": {
+    "video_name": "NIA_SL_WORD0016_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "신사",
+    "duration": 4.8,
+    "start_sec": 1.61,
+    "end_sec": 3.492
+  },
+  "78": {
+    "video_name": "NIA_SL_WORD0016_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "신사",
+    "duration": 4.8,
+    "start_sec": 1.61,
+    "end_sec": 3.492
+  },
+  "79": {
+    "video_name": "NIA_SL_WORD0016_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "신사",
+    "duration": 4.8,
+    "start_sec": 1.61,
+    "end_sec": 3.492
+  },
+  "80": {
+    "video_name": "NIA_SL_WORD0016_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "신사",
+    "duration": 4.8,
+    "start_sec": 1.61,
+    "end_sec": 3.492
+  },
+  "81": {
+    "video_name": "NIA_SL_WORD0017_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "뉴질랜드",
+    "duration": 3.5,
+    "start_sec": 1.158,
+    "end_sec": 2.557
+  },
+  "82": {
+    "video_name": "NIA_SL_WORD0017_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "뉴질랜드",
+    "duration": 3.5,
+    "start_sec": 1.158,
+    "end_sec": 2.557
+  },
+  "83": {
+    "video_name": "NIA_SL_WORD0017_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "뉴질랜드",
+    "duration": 3.5,
+    "start_sec": 1.158,
+    "end_sec": 2.557
+  },
+  "84": {
+    "video_name": "NIA_SL_WORD0017_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "뉴질랜드",
+    "duration": 3.5,
+    "start_sec": 1.158,
+    "end_sec": 2.557
+  },
+  "85": {
+    "video_name": "NIA_SL_WORD0017_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "뉴질랜드",
+    "duration": 3.5,
+    "start_sec": 1.158,
+    "end_sec": 2.557
+  },
+  "86": {
+    "video_name": "NIA_SL_WORD0018_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "나사렛대학교",
+    "duration": 3.7,
+    "start_sec": 1.345,
+    "end_sec": 2.887
+  },
+  "87": {
+    "video_name": "NIA_SL_WORD0018_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "나사렛대학교",
+    "duration": 3.7,
+    "start_sec": 1.345,
+    "end_sec": 2.887
+  },
+  "88": {
+    "video_name": "NIA_SL_WORD0018_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "나사렛대학교",
+    "duration": 3.7,
+    "start_sec": 1.345,
+    "end_sec": 2.887
+  },
+  "89": {
+    "video_name": "NIA_SL_WORD0018_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "나사렛대학교",
+    "duration": 3.7,
+    "start_sec": 1.345,
+    "end_sec": 2.887
+  },
+  "90": {
+    "video_name": "NIA_SL_WORD0018_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "나사렛대학교",
+    "duration": 3.7,
+    "start_sec": 1.345,
+    "end_sec": 2.887
+  },
+  "91": {
+    "video_name": "NIA_SL_WORD0019_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "알아서",
+    "duration": 3.667,
+    "start_sec": 0.725,
+    "end_sec": 2.489
+  },
+  "92": {
+    "video_name": "NIA_SL_WORD0019_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "알아서",
+    "duration": 3.667,
+    "start_sec": 0.725,
+    "end_sec": 2.489
+  },
+  "93": {
+    "video_name": "NIA_SL_WORD0019_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "알아서",
+    "duration": 3.667,
+    "start_sec": 0.725,
+    "end_sec": 2.489
+  },
+  "94": {
+    "video_name": "NIA_SL_WORD0019_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "알아서",
+    "duration": 3.667,
+    "start_sec": 0.725,
+    "end_sec": 2.489
+  },
+  "95": {
+    "video_name": "NIA_SL_WORD0019_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "알아서",
+    "duration": 3.667,
+    "start_sec": 0.725,
+    "end_sec": 2.489
+  },
+  "96": {
+    "video_name": "NIA_SL_WORD0020_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "장애인",
+    "duration": 3.9,
+    "start_sec": 1.245,
+    "end_sec": 2.709
+  },
+  "97": {
+    "video_name": "NIA_SL_WORD0020_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "장애인",
+    "duration": 3.9,
+    "start_sec": 1.245,
+    "end_sec": 2.709
+  },
+  "98": {
+    "video_name": "NIA_SL_WORD0020_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "장애인",
+    "duration": 3.9,
+    "start_sec": 1.245,
+    "end_sec": 2.709
+  },
+  "99": {
+    "video_name": "NIA_SL_WORD0020_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "장애인",
+    "duration": 3.9,
+    "start_sec": 1.245,
+    "end_sec": 2.709
+  },
+  "100": {
+    "video_name": "NIA_SL_WORD0020_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "장애인",
+    "duration": 3.9,
+    "start_sec": 1.245,
+    "end_sec": 2.709
+  },
+  "101": {
+    "video_name": "NIA_SL_WORD0021_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "열아홉번째",
+    "duration": 3.567,
+    "start_sec": 1.863,
+    "end_sec": 2.363
+  },
+  "102": {
+    "video_name": "NIA_SL_WORD0021_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "열아홉번째",
+    "duration": 3.567,
+    "start_sec": 1.863,
+    "end_sec": 2.363
+  },
+  "103": {
+    "video_name": "NIA_SL_WORD0021_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "열아홉번째",
+    "duration": 3.567,
+    "start_sec": 1.863,
+    "end_sec": 2.363
+  },
+  "104": {
+    "video_name": "NIA_SL_WORD0021_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "열아홉번째",
+    "duration": 3.567,
+    "start_sec": 1.863,
+    "end_sec": 2.363
+  },
+  "105": {
+    "video_name": "NIA_SL_WORD0021_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "열아홉번째",
+    "duration": 3.567,
+    "start_sec": 1.863,
+    "end_sec": 2.363
+  },
+  "106": {
+    "video_name": "NIA_SL_WORD0022_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "침착",
+    "duration": 4.3,
+    "start_sec": 1.15,
+    "end_sec": 2.927
+  },
+  "107": {
+    "video_name": "NIA_SL_WORD0022_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "침착",
+    "duration": 4.3,
+    "start_sec": 1.15,
+    "end_sec": 2.927
+  },
+  "108": {
+    "video_name": "NIA_SL_WORD0022_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "침착",
+    "duration": 4.3,
+    "start_sec": 1.15,
+    "end_sec": 2.927
+  },
+  "109": {
+    "video_name": "NIA_SL_WORD0022_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "침착",
+    "duration": 4.3,
+    "start_sec": 1.15,
+    "end_sec": 2.927
+  },
+  "110": {
+    "video_name": "NIA_SL_WORD0022_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "침착",
+    "duration": 4.3,
+    "start_sec": 1.15,
+    "end_sec": 2.927
+  },
+  "111": {
+    "video_name": "NIA_SL_WORD0023_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "성실",
+    "duration": 4.4,
+    "start_sec": 1.357,
+    "end_sec": 3.082
+  },
+  "112": {
+    "video_name": "NIA_SL_WORD0023_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "성실",
+    "duration": 4.4,
+    "start_sec": 1.357,
+    "end_sec": 3.082
+  },
+  "113": {
+    "video_name": "NIA_SL_WORD0023_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "성실",
+    "duration": 4.4,
+    "start_sec": 1.357,
+    "end_sec": 3.082
+  },
+  "114": {
+    "video_name": "NIA_SL_WORD0023_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "성실",
+    "duration": 4.4,
+    "start_sec": 1.357,
+    "end_sec": 3.082
+  },
+  "115": {
+    "video_name": "NIA_SL_WORD0023_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "성실",
+    "duration": 4.4,
+    "start_sec": 1.357,
+    "end_sec": 3.082
+  },
+  "116": {
+    "video_name": "NIA_SL_WORD0024_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "학교연혁",
+    "duration": 4.567,
+    "start_sec": 1.677,
+    "end_sec": 3.311
+  },
+  "117": {
+    "video_name": "NIA_SL_WORD0024_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "학교연혁",
+    "duration": 4.567,
+    "start_sec": 1.677,
+    "end_sec": 3.311
+  },
+  "118": {
+    "video_name": "NIA_SL_WORD0024_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "학교연혁",
+    "duration": 4.567,
+    "start_sec": 1.677,
+    "end_sec": 3.311
+  },
+  "119": {
+    "video_name": "NIA_SL_WORD0024_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "학교연혁",
+    "duration": 4.567,
+    "start_sec": 1.677,
+    "end_sec": 3.311
+  },
+  "120": {
+    "video_name": "NIA_SL_WORD0024_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "학교연혁",
+    "duration": 4.567,
+    "start_sec": 1.677,
+    "end_sec": 3.311
+  },
+  "121": {
+    "video_name": "NIA_SL_WORD0025_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "싫어하다",
+    "duration": 3.934,
+    "start_sec": 1.318,
+    "end_sec": 2.822
+  },
+  "122": {
+    "video_name": "NIA_SL_WORD0025_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "싫어하다",
+    "duration": 3.934,
+    "start_sec": 1.318,
+    "end_sec": 2.822
+  },
+  "123": {
+    "video_name": "NIA_SL_WORD0025_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "싫어하다",
+    "duration": 3.934,
+    "start_sec": 1.318,
+    "end_sec": 2.822
+  },
+  "124": {
+    "video_name": "NIA_SL_WORD0025_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "싫어하다",
+    "duration": 3.934,
+    "start_sec": 1.318,
+    "end_sec": 2.822
+  },
+  "125": {
+    "video_name": "NIA_SL_WORD0025_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "싫어하다",
+    "duration": 3.934,
+    "start_sec": 1.318,
+    "end_sec": 2.822
+  },
+  "126": {
+    "video_name": "NIA_SL_WORD0026_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "급하다",
+    "duration": 4.7,
+    "start_sec": 2.097,
+    "end_sec": 3.601
+  },
+  "127": {
+    "video_name": "NIA_SL_WORD0026_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "급하다",
+    "duration": 4.7,
+    "start_sec": 2.097,
+    "end_sec": 3.601
+  },
+  "128": {
+    "video_name": "NIA_SL_WORD0026_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "급하다",
+    "duration": 4.7,
+    "start_sec": 2.097,
+    "end_sec": 3.601
+  },
+  "129": {
+    "video_name": "NIA_SL_WORD0026_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "급하다",
+    "duration": 4.7,
+    "start_sec": 2.097,
+    "end_sec": 3.601
+  },
+  "130": {
+    "video_name": "NIA_SL_WORD0026_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "급하다",
+    "duration": 4.7,
+    "start_sec": 2.097,
+    "end_sec": 3.601
+  },
+  "131": {
+    "video_name": "NIA_SL_WORD0027_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "필기시험",
+    "duration": 4.6,
+    "start_sec": 2.036,
+    "end_sec": 3.54
+  },
+  "132": {
+    "video_name": "NIA_SL_WORD0027_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "필기시험",
+    "duration": 4.6,
+    "start_sec": 2.036,
+    "end_sec": 3.54
+  },
+  "133": {
+    "video_name": "NIA_SL_WORD0027_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "필기시험",
+    "duration": 4.6,
+    "start_sec": 2.036,
+    "end_sec": 3.54
+  },
+  "134": {
+    "video_name": "NIA_SL_WORD0027_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "필기시험",
+    "duration": 4.6,
+    "start_sec": 2.036,
+    "end_sec": 3.54
+  },
+  "135": {
+    "video_name": "NIA_SL_WORD0027_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "필기시험",
+    "duration": 4.6,
+    "start_sec": 2.036,
+    "end_sec": 3.54
+  },
+  "136": {
+    "video_name": "NIA_SL_WORD0028_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "병문안",
+    "duration": 4.234,
+    "start_sec": 1.422,
+    "end_sec": 3.251
+  },
+  "137": {
+    "video_name": "NIA_SL_WORD0028_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "병문안",
+    "duration": 4.234,
+    "start_sec": 1.422,
+    "end_sec": 3.251
+  },
+  "138": {
+    "video_name": "NIA_SL_WORD0028_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "병문안",
+    "duration": 4.234,
+    "start_sec": 1.422,
+    "end_sec": 3.251
+  },
+  "139": {
+    "video_name": "NIA_SL_WORD0028_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "병문안",
+    "duration": 4.234,
+    "start_sec": 1.422,
+    "end_sec": 3.251
+  },
+  "140": {
+    "video_name": "NIA_SL_WORD0028_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "병문안",
+    "duration": 4.234,
+    "start_sec": 1.422,
+    "end_sec": 3.251
+  },
+  "141": {
+    "video_name": "NIA_SL_WORD0029_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "검사",
+    "duration": 3.867,
+    "start_sec": 1.055,
+    "end_sec": 2.793
+  },
+  "142": {
+    "video_name": "NIA_SL_WORD0029_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "검사",
+    "duration": 3.867,
+    "start_sec": 1.055,
+    "end_sec": 2.793
+  },
+  "143": {
+    "video_name": "NIA_SL_WORD0029_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "검사",
+    "duration": 3.867,
+    "start_sec": 1.055,
+    "end_sec": 2.793
+  },
+  "144": {
+    "video_name": "NIA_SL_WORD0029_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "검사",
+    "duration": 3.867,
+    "start_sec": 1.055,
+    "end_sec": 2.793
+  },
+  "145": {
+    "video_name": "NIA_SL_WORD0029_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "검사",
+    "duration": 3.867,
+    "start_sec": 1.055,
+    "end_sec": 2.793
+  },
+  "146": {
+    "video_name": "NIA_SL_WORD0030_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "결승전",
+    "duration": 5.2,
+    "start_sec": 2.362,
+    "end_sec": 4.114
+  },
+  "147": {
+    "video_name": "NIA_SL_WORD0030_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "결승전",
+    "duration": 5.2,
+    "start_sec": 2.362,
+    "end_sec": 4.114
+  },
+  "148": {
+    "video_name": "NIA_SL_WORD0030_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "결승전",
+    "duration": 5.2,
+    "start_sec": 2.362,
+    "end_sec": 4.114
+  },
+  "149": {
+    "video_name": "NIA_SL_WORD0030_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "결승전",
+    "duration": 5.2,
+    "start_sec": 2.362,
+    "end_sec": 4.114
+  },
+  "150": {
+    "video_name": "NIA_SL_WORD0030_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "결승전",
+    "duration": 5.2,
+    "start_sec": 2.362,
+    "end_sec": 4.114
+  },
+  "151": {
+    "video_name": "NIA_SL_WORD0031_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "낚시터",
+    "duration": 4.134,
+    "start_sec": 1.192,
+    "end_sec": 3.047
+  },
+  "152": {
+    "video_name": "NIA_SL_WORD0031_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "낚시터",
+    "duration": 4.134,
+    "start_sec": 1.192,
+    "end_sec": 3.047
+  },
+  "153": {
+    "video_name": "NIA_SL_WORD0031_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "낚시터",
+    "duration": 4.134,
+    "start_sec": 1.192,
+    "end_sec": 3.047
+  },
+  "154": {
+    "video_name": "NIA_SL_WORD0031_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "낚시터",
+    "duration": 4.134,
+    "start_sec": 1.192,
+    "end_sec": 3.047
+  },
+  "155": {
+    "video_name": "NIA_SL_WORD0031_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "낚시터",
+    "duration": 4.134,
+    "start_sec": 1.192,
+    "end_sec": 3.047
+  },
+  "156": {
+    "video_name": "NIA_SL_WORD0032_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "낚시대",
+    "duration": 4.467,
+    "start_sec": 1.173,
+    "end_sec": 3.302
+  },
+  "157": {
+    "video_name": "NIA_SL_WORD0032_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "낚시대",
+    "duration": 4.467,
+    "start_sec": 1.173,
+    "end_sec": 3.302
+  },
+  "158": {
+    "video_name": "NIA_SL_WORD0032_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "낚시대",
+    "duration": 4.467,
+    "start_sec": 1.173,
+    "end_sec": 3.302
+  },
+  "159": {
+    "video_name": "NIA_SL_WORD0032_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "낚시대",
+    "duration": 4.467,
+    "start_sec": 1.173,
+    "end_sec": 3.302
+  },
+  "160": {
+    "video_name": "NIA_SL_WORD0032_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "낚시대",
+    "duration": 4.467,
+    "start_sec": 1.173,
+    "end_sec": 3.302
+  },
+  "161": {
+    "video_name": "NIA_SL_WORD0033_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "당뇨병",
+    "duration": 5.667,
+    "start_sec": 2.373,
+    "end_sec": 4.57
+  },
+  "162": {
+    "video_name": "NIA_SL_WORD0033_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "당뇨병",
+    "duration": 5.667,
+    "start_sec": 2.373,
+    "end_sec": 4.57
+  },
+  "163": {
+    "video_name": "NIA_SL_WORD0033_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "당뇨병",
+    "duration": 5.667,
+    "start_sec": 2.373,
+    "end_sec": 4.57
+  },
+  "164": {
+    "video_name": "NIA_SL_WORD0033_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "당뇨병",
+    "duration": 5.667,
+    "start_sec": 2.373,
+    "end_sec": 4.57
+  },
+  "165": {
+    "video_name": "NIA_SL_WORD0033_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "당뇨병",
+    "duration": 5.667,
+    "start_sec": 2.373,
+    "end_sec": 4.57
+  },
+  "166": {
+    "video_name": "NIA_SL_WORD0034_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "독서",
+    "duration": 4.634,
+    "start_sec": 1.738,
+    "end_sec": 3.528
+  },
+  "167": {
+    "video_name": "NIA_SL_WORD0034_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "독서",
+    "duration": 4.634,
+    "start_sec": 1.738,
+    "end_sec": 3.528
+  },
+  "168": {
+    "video_name": "NIA_SL_WORD0034_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "독서",
+    "duration": 4.634,
+    "start_sec": 1.738,
+    "end_sec": 3.528
+  },
+  "169": {
+    "video_name": "NIA_SL_WORD0034_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "독서",
+    "duration": 4.634,
+    "start_sec": 1.738,
+    "end_sec": 3.528
+  },
+  "170": {
+    "video_name": "NIA_SL_WORD0034_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "독서",
+    "duration": 4.634,
+    "start_sec": 1.738,
+    "end_sec": 3.528
+  },
+  "171": {
+    "video_name": "NIA_SL_WORD0035_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "매표소",
+    "duration": 4.634,
+    "start_sec": 2.096,
+    "end_sec": 3.547
+  },
+  "172": {
+    "video_name": "NIA_SL_WORD0035_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "매표소",
+    "duration": 4.634,
+    "start_sec": 2.096,
+    "end_sec": 3.547
+  },
+  "173": {
+    "video_name": "NIA_SL_WORD0035_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "매표소",
+    "duration": 4.634,
+    "start_sec": 2.096,
+    "end_sec": 3.547
+  },
+  "174": {
+    "video_name": "NIA_SL_WORD0035_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "매표소",
+    "duration": 4.634,
+    "start_sec": 2.096,
+    "end_sec": 3.547
+  },
+  "175": {
+    "video_name": "NIA_SL_WORD0035_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "매표소",
+    "duration": 4.634,
+    "start_sec": 2.096,
+    "end_sec": 3.547
+  },
+  "176": {
+    "video_name": "NIA_SL_WORD0036_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "면역",
+    "duration": 4.467,
+    "start_sec": 1.616,
+    "end_sec": 3.315
+  },
+  "177": {
+    "video_name": "NIA_SL_WORD0036_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "면역",
+    "duration": 4.467,
+    "start_sec": 1.616,
+    "end_sec": 3.315
+  },
+  "178": {
+    "video_name": "NIA_SL_WORD0036_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "면역",
+    "duration": 4.467,
+    "start_sec": 1.616,
+    "end_sec": 3.315
+  },
+  "179": {
+    "video_name": "NIA_SL_WORD0036_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "면역",
+    "duration": 4.467,
+    "start_sec": 1.616,
+    "end_sec": 3.315
+  },
+  "180": {
+    "video_name": "NIA_SL_WORD0036_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "면역",
+    "duration": 4.467,
+    "start_sec": 1.616,
+    "end_sec": 3.315
+  },
+  "181": {
+    "video_name": "NIA_SL_WORD0037_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "감기",
+    "duration": 4.4,
+    "start_sec": 1.523,
+    "end_sec": 3.209
+  },
+  "182": {
+    "video_name": "NIA_SL_WORD0037_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "감기",
+    "duration": 4.4,
+    "start_sec": 1.523,
+    "end_sec": 3.209
+  },
+  "183": {
+    "video_name": "NIA_SL_WORD0037_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "감기",
+    "duration": 4.4,
+    "start_sec": 1.523,
+    "end_sec": 3.209
+  },
+  "184": {
+    "video_name": "NIA_SL_WORD0037_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "감기",
+    "duration": 4.4,
+    "start_sec": 1.523,
+    "end_sec": 3.209
+  },
+  "185": {
+    "video_name": "NIA_SL_WORD0037_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "감기",
+    "duration": 4.4,
+    "start_sec": 1.523,
+    "end_sec": 3.209
+  },
+  "186": {
+    "video_name": "NIA_SL_WORD0038_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "배드민턴",
+    "duration": 4.134,
+    "start_sec": 1.283,
+    "end_sec": 3.112
+  },
+  "187": {
+    "video_name": "NIA_SL_WORD0038_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "배드민턴",
+    "duration": 4.134,
+    "start_sec": 1.283,
+    "end_sec": 3.112
+  },
+  "188": {
+    "video_name": "NIA_SL_WORD0038_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "배드민턴",
+    "duration": 4.134,
+    "start_sec": 1.283,
+    "end_sec": 3.112
+  },
+  "189": {
+    "video_name": "NIA_SL_WORD0038_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "배드민턴",
+    "duration": 4.134,
+    "start_sec": 1.283,
+    "end_sec": 3.112
+  },
+  "190": {
+    "video_name": "NIA_SL_WORD0038_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "배드민턴",
+    "duration": 4.134,
+    "start_sec": 1.283,
+    "end_sec": 3.112
+  },
+  "191": {
+    "video_name": "NIA_SL_WORD0039_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "변비",
+    "duration": 4.934,
+    "start_sec": 2.122,
+    "end_sec": 3.847
+  },
+  "192": {
+    "video_name": "NIA_SL_WORD0039_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "변비",
+    "duration": 4.934,
+    "start_sec": 2.122,
+    "end_sec": 3.847
+  },
+  "193": {
+    "video_name": "NIA_SL_WORD0039_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "변비",
+    "duration": 4.934,
+    "start_sec": 2.122,
+    "end_sec": 3.847
+  },
+  "194": {
+    "video_name": "NIA_SL_WORD0039_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "변비",
+    "duration": 4.934,
+    "start_sec": 2.122,
+    "end_sec": 3.847
+  },
+  "195": {
+    "video_name": "NIA_SL_WORD0039_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "변비",
+    "duration": 4.934,
+    "start_sec": 2.122,
+    "end_sec": 3.847
+  },
+  "196": {
+    "video_name": "NIA_SL_WORD0040_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "병명",
+    "duration": 3.634,
+    "start_sec": 1.187,
+    "end_sec": 2.808
+  },
+  "197": {
+    "video_name": "NIA_SL_WORD0040_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "병명",
+    "duration": 3.634,
+    "start_sec": 1.187,
+    "end_sec": 2.808
+  },
+  "198": {
+    "video_name": "NIA_SL_WORD0040_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "병명",
+    "duration": 3.634,
+    "start_sec": 1.187,
+    "end_sec": 2.808
+  },
+  "199": {
+    "video_name": "NIA_SL_WORD0040_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "병명",
+    "duration": 3.634,
+    "start_sec": 1.187,
+    "end_sec": 2.808
+  },
+  "200": {
+    "video_name": "NIA_SL_WORD0040_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "병명",
+    "duration": 3.634,
+    "start_sec": 1.187,
+    "end_sec": 2.808
+  },
+  "201": {
+    "video_name": "NIA_SL_WORD0041_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "보건소",
+    "duration": 4.7,
+    "start_sec": 1.315,
+    "end_sec": 3.692
+  },
+  "202": {
+    "video_name": "NIA_SL_WORD0041_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "보건소",
+    "duration": 4.7,
+    "start_sec": 1.315,
+    "end_sec": 3.692
+  },
+  "203": {
+    "video_name": "NIA_SL_WORD0041_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "보건소",
+    "duration": 4.7,
+    "start_sec": 1.315,
+    "end_sec": 3.692
+  },
+  "204": {
+    "video_name": "NIA_SL_WORD0041_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "보건소",
+    "duration": 4.7,
+    "start_sec": 1.315,
+    "end_sec": 3.692
+  },
+  "205": {
+    "video_name": "NIA_SL_WORD0041_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "보건소",
+    "duration": 4.7,
+    "start_sec": 1.315,
+    "end_sec": 3.692
+  },
+  "206": {
+    "video_name": "NIA_SL_WORD0042_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "불면증",
+    "duration": 4.634,
+    "start_sec": 1.34,
+    "end_sec": 3.586
+  },
+  "207": {
+    "video_name": "NIA_SL_WORD0042_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "불면증",
+    "duration": 4.634,
+    "start_sec": 1.34,
+    "end_sec": 3.586
+  },
+  "208": {
+    "video_name": "NIA_SL_WORD0042_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "불면증",
+    "duration": 4.634,
+    "start_sec": 1.34,
+    "end_sec": 3.586
+  },
+  "209": {
+    "video_name": "NIA_SL_WORD0042_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "불면증",
+    "duration": 4.634,
+    "start_sec": 1.34,
+    "end_sec": 3.586
+  },
+  "210": {
+    "video_name": "NIA_SL_WORD0042_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "불면증",
+    "duration": 4.634,
+    "start_sec": 1.34,
+    "end_sec": 3.586
+  },
+  "211": {
+    "video_name": "NIA_SL_WORD0043_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "불행",
+    "duration": 3.367,
+    "start_sec": 0.894,
+    "end_sec": 2.328
+  },
+  "212": {
+    "video_name": "NIA_SL_WORD0043_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "불행",
+    "duration": 3.367,
+    "start_sec": 0.894,
+    "end_sec": 2.328
+  },
+  "213": {
+    "video_name": "NIA_SL_WORD0043_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "불행",
+    "duration": 3.367,
+    "start_sec": 0.894,
+    "end_sec": 2.328
+  },
+  "214": {
+    "video_name": "NIA_SL_WORD0043_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "불행",
+    "duration": 3.367,
+    "start_sec": 0.894,
+    "end_sec": 2.328
+  },
+  "215": {
+    "video_name": "NIA_SL_WORD0043_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "불행",
+    "duration": 3.367,
+    "start_sec": 0.894,
+    "end_sec": 2.328
+  },
+  "216": {
+    "video_name": "NIA_SL_WORD0044_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "붕대",
+    "duration": 4.134,
+    "start_sec": 1.309,
+    "end_sec": 3.086
+  },
+  "217": {
+    "video_name": "NIA_SL_WORD0044_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "붕대",
+    "duration": 4.134,
+    "start_sec": 1.309,
+    "end_sec": 3.086
+  },
+  "218": {
+    "video_name": "NIA_SL_WORD0044_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "붕대",
+    "duration": 4.134,
+    "start_sec": 1.309,
+    "end_sec": 3.086
+  },
+  "219": {
+    "video_name": "NIA_SL_WORD0044_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "붕대",
+    "duration": 4.134,
+    "start_sec": 1.309,
+    "end_sec": 3.086
+  },
+  "220": {
+    "video_name": "NIA_SL_WORD0044_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "붕대",
+    "duration": 4.134,
+    "start_sec": 1.309,
+    "end_sec": 3.086
+  },
+  "221": {
+    "video_name": "NIA_SL_WORD0045_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "사위",
+    "duration": 4.1,
+    "start_sec": 1.171,
+    "end_sec": 2.805
+  },
+  "222": {
+    "video_name": "NIA_SL_WORD0045_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "사위",
+    "duration": 4.1,
+    "start_sec": 1.171,
+    "end_sec": 2.805
+  },
+  "223": {
+    "video_name": "NIA_SL_WORD0045_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "사위",
+    "duration": 4.1,
+    "start_sec": 1.171,
+    "end_sec": 2.805
+  },
+  "224": {
+    "video_name": "NIA_SL_WORD0045_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "사위",
+    "duration": 4.1,
+    "start_sec": 1.171,
+    "end_sec": 2.805
+  },
+  "225": {
+    "video_name": "NIA_SL_WORD0045_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "사위",
+    "duration": 4.1,
+    "start_sec": 1.171,
+    "end_sec": 2.805
+  },
+  "226": {
+    "video_name": "NIA_SL_WORD0046_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "설사",
+    "duration": 4,
+    "start_sec": 1.227,
+    "end_sec": 2.952
+  },
+  "227": {
+    "video_name": "NIA_SL_WORD0046_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "설사",
+    "duration": 4,
+    "start_sec": 1.227,
+    "end_sec": 2.952
+  },
+  "228": {
+    "video_name": "NIA_SL_WORD0046_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "설사",
+    "duration": 4,
+    "start_sec": 1.227,
+    "end_sec": 2.952
+  },
+  "229": {
+    "video_name": "NIA_SL_WORD0046_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "설사",
+    "duration": 4,
+    "start_sec": 1.227,
+    "end_sec": 2.952
+  },
+  "230": {
+    "video_name": "NIA_SL_WORD0046_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "설사",
+    "duration": 4,
+    "start_sec": 1.227,
+    "end_sec": 2.952
+  },
+  "231": {
+    "video_name": "NIA_SL_WORD0047_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "성병",
+    "duration": 5.234,
+    "start_sec": 1.653,
+    "end_sec": 2.961
+  },
+  "232": {
+    "video_name": "NIA_SL_WORD0047_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "성병",
+    "duration": 5.234,
+    "start_sec": 1.653,
+    "end_sec": 2.961
+  },
+  "233": {
+    "video_name": "NIA_SL_WORD0047_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "성병",
+    "duration": 5.234,
+    "start_sec": 1.653,
+    "end_sec": 2.961
+  },
+  "234": {
+    "video_name": "NIA_SL_WORD0047_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "성병",
+    "duration": 5.234,
+    "start_sec": 1.653,
+    "end_sec": 2.961
+  },
+  "235": {
+    "video_name": "NIA_SL_WORD0047_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "성병",
+    "duration": 5.234,
+    "start_sec": 1.653,
+    "end_sec": 2.961
+  },
+  "236": {
+    "video_name": "NIA_SL_WORD0048_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "방충",
+    "duration": 4.267,
+    "start_sec": 1.56,
+    "end_sec": 3.077
+  },
+  "237": {
+    "video_name": "NIA_SL_WORD0048_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "방충",
+    "duration": 4.267,
+    "start_sec": 1.56,
+    "end_sec": 3.077
+  },
+  "238": {
+    "video_name": "NIA_SL_WORD0048_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "방충",
+    "duration": 4.267,
+    "start_sec": 1.56,
+    "end_sec": 3.077
+  },
+  "239": {
+    "video_name": "NIA_SL_WORD0048_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "방충",
+    "duration": 4.267,
+    "start_sec": 1.56,
+    "end_sec": 3.077
+  },
+  "240": {
+    "video_name": "NIA_SL_WORD0048_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "방충",
+    "duration": 4.267,
+    "start_sec": 1.56,
+    "end_sec": 3.077
+  },
+  "241": {
+    "video_name": "NIA_SL_WORD0049_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "소화제",
+    "duration": 4.4,
+    "start_sec": 1.797,
+    "end_sec": 3.366
+  },
+  "242": {
+    "video_name": "NIA_SL_WORD0049_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "소화제",
+    "duration": 4.4,
+    "start_sec": 1.797,
+    "end_sec": 3.366
+  },
+  "243": {
+    "video_name": "NIA_SL_WORD0049_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "소화제",
+    "duration": 4.4,
+    "start_sec": 1.797,
+    "end_sec": 3.366
+  },
+  "244": {
+    "video_name": "NIA_SL_WORD0049_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "소화제",
+    "duration": 4.4,
+    "start_sec": 1.797,
+    "end_sec": 3.366
+  },
+  "245": {
+    "video_name": "NIA_SL_WORD0049_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "소화제",
+    "duration": 4.4,
+    "start_sec": 1.797,
+    "end_sec": 3.366
+  },
+  "246": {
+    "video_name": "NIA_SL_WORD0050_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "손녀",
+    "duration": 4.6,
+    "start_sec": 1.932,
+    "end_sec": 3.475
+  },
+  "247": {
+    "video_name": "NIA_SL_WORD0050_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "손녀",
+    "duration": 4.6,
+    "start_sec": 1.932,
+    "end_sec": 3.475
+  },
+  "248": {
+    "video_name": "NIA_SL_WORD0050_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "손녀",
+    "duration": 4.6,
+    "start_sec": 1.932,
+    "end_sec": 3.475
+  },
+  "249": {
+    "video_name": "NIA_SL_WORD0050_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "손녀",
+    "duration": 4.6,
+    "start_sec": 1.932,
+    "end_sec": 3.475
+  },
+  "250": {
+    "video_name": "NIA_SL_WORD0050_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "손녀",
+    "duration": 4.6,
+    "start_sec": 1.932,
+    "end_sec": 3.475
+  },
+  "251": {
+    "video_name": "NIA_SL_WORD0051_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "손자",
+    "duration": 3.867,
+    "start_sec": 1.42,
+    "end_sec": 2.65
+  },
+  "252": {
+    "video_name": "NIA_SL_WORD0051_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "손자",
+    "duration": 3.867,
+    "start_sec": 1.42,
+    "end_sec": 2.65
+  },
+  "253": {
+    "video_name": "NIA_SL_WORD0051_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "손자",
+    "duration": 3.867,
+    "start_sec": 1.42,
+    "end_sec": 2.65
+  },
+  "254": {
+    "video_name": "NIA_SL_WORD0051_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "손자",
+    "duration": 3.867,
+    "start_sec": 1.42,
+    "end_sec": 2.65
+  },
+  "255": {
+    "video_name": "NIA_SL_WORD0051_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "손자",
+    "duration": 3.867,
+    "start_sec": 1.42,
+    "end_sec": 2.65
+  },
+  "256": {
+    "video_name": "NIA_SL_WORD0052_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "수면제",
+    "duration": 4.167,
+    "start_sec": 1.355,
+    "end_sec": 3.054
+  },
+  "257": {
+    "video_name": "NIA_SL_WORD0052_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "수면제",
+    "duration": 4.167,
+    "start_sec": 1.355,
+    "end_sec": 3.054
+  },
+  "258": {
+    "video_name": "NIA_SL_WORD0052_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "수면제",
+    "duration": 4.167,
+    "start_sec": 1.355,
+    "end_sec": 3.054
+  },
+  "259": {
+    "video_name": "NIA_SL_WORD0052_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "수면제",
+    "duration": 4.167,
+    "start_sec": 1.355,
+    "end_sec": 3.054
+  },
+  "260": {
+    "video_name": "NIA_SL_WORD0052_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "수면제",
+    "duration": 4.167,
+    "start_sec": 1.355,
+    "end_sec": 3.054
+  },
+  "261": {
+    "video_name": "NIA_SL_WORD0053_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "수집가",
+    "duration": 5.167,
+    "start_sec": 1.612,
+    "end_sec": 4.094
+  },
+  "262": {
+    "video_name": "NIA_SL_WORD0053_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "수집가",
+    "duration": 5.167,
+    "start_sec": 1.612,
+    "end_sec": 4.094
+  },
+  "263": {
+    "video_name": "NIA_SL_WORD0053_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "수집가",
+    "duration": 5.167,
+    "start_sec": 1.612,
+    "end_sec": 4.094
+  },
+  "264": {
+    "video_name": "NIA_SL_WORD0053_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "수집가",
+    "duration": 5.167,
+    "start_sec": 1.612,
+    "end_sec": 4.094
+  },
+  "265": {
+    "video_name": "NIA_SL_WORD0053_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "수집가",
+    "duration": 5.167,
+    "start_sec": 1.612,
+    "end_sec": 4.094
+  },
+  "266": {
+    "video_name": "NIA_SL_WORD0054_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "여행지",
+    "duration": 4.134,
+    "start_sec": 1.466,
+    "end_sec": 3.048
+  },
+  "267": {
+    "video_name": "NIA_SL_WORD0054_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "여행지",
+    "duration": 4.134,
+    "start_sec": 1.466,
+    "end_sec": 3.048
+  },
+  "268": {
+    "video_name": "NIA_SL_WORD0054_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "여행지",
+    "duration": 4.134,
+    "start_sec": 1.466,
+    "end_sec": 3.048
+  },
+  "269": {
+    "video_name": "NIA_SL_WORD0054_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "여행지",
+    "duration": 4.134,
+    "start_sec": 1.466,
+    "end_sec": 3.048
+  },
+  "270": {
+    "video_name": "NIA_SL_WORD0054_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "여행지",
+    "duration": 4.134,
+    "start_sec": 1.466,
+    "end_sec": 3.048
+  },
+  "271": {
+    "video_name": "NIA_SL_WORD0055_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "예식장",
+    "duration": 3.8,
+    "start_sec": 1.236,
+    "end_sec": 2.674
+  },
+  "272": {
+    "video_name": "NIA_SL_WORD0055_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "예식장",
+    "duration": 3.8,
+    "start_sec": 1.236,
+    "end_sec": 2.674
+  },
+  "273": {
+    "video_name": "NIA_SL_WORD0055_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "예식장",
+    "duration": 3.8,
+    "start_sec": 1.236,
+    "end_sec": 2.674
+  },
+  "274": {
+    "video_name": "NIA_SL_WORD0055_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "예식장",
+    "duration": 3.8,
+    "start_sec": 1.236,
+    "end_sec": 2.674
+  },
+  "275": {
+    "video_name": "NIA_SL_WORD0055_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "예식장",
+    "duration": 3.8,
+    "start_sec": 1.236,
+    "end_sec": 2.674
+  },
+  "276": {
+    "video_name": "NIA_SL_WORD0056_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "올림픽경기",
+    "duration": 4.6,
+    "start_sec": 1.358,
+    "end_sec": 3.461
+  },
+  "277": {
+    "video_name": "NIA_SL_WORD0056_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "올림픽경기",
+    "duration": 4.6,
+    "start_sec": 1.358,
+    "end_sec": 3.461
+  },
+  "278": {
+    "video_name": "NIA_SL_WORD0056_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "올림픽경기",
+    "duration": 4.6,
+    "start_sec": 1.358,
+    "end_sec": 3.461
+  },
+  "279": {
+    "video_name": "NIA_SL_WORD0056_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "올림픽경기",
+    "duration": 4.6,
+    "start_sec": 1.358,
+    "end_sec": 3.461
+  },
+  "280": {
+    "video_name": "NIA_SL_WORD0056_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "올림픽경기",
+    "duration": 4.6,
+    "start_sec": 1.358,
+    "end_sec": 3.461
+  },
+  "281": {
+    "video_name": "NIA_SL_WORD0057_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "회복",
+    "duration": 4.134,
+    "start_sec": 1.296,
+    "end_sec": 2.904
+  },
+  "282": {
+    "video_name": "NIA_SL_WORD0057_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "회복",
+    "duration": 4.134,
+    "start_sec": 1.296,
+    "end_sec": 2.904
+  },
+  "283": {
+    "video_name": "NIA_SL_WORD0057_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "회복",
+    "duration": 4.134,
+    "start_sec": 1.296,
+    "end_sec": 2.904
+  },
+  "284": {
+    "video_name": "NIA_SL_WORD0057_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "회복",
+    "duration": 4.134,
+    "start_sec": 1.296,
+    "end_sec": 2.904
+  },
+  "285": {
+    "video_name": "NIA_SL_WORD0057_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "회복",
+    "duration": 4.134,
+    "start_sec": 1.296,
+    "end_sec": 2.904
+  },
+  "286": {
+    "video_name": "NIA_SL_WORD0058_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "첫번째",
+    "duration": 3.1,
+    "start_sec": 1.331,
+    "end_sec": 1.831
+  },
+  "287": {
+    "video_name": "NIA_SL_WORD0058_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "첫번째",
+    "duration": 3.1,
+    "start_sec": 1.331,
+    "end_sec": 1.831
+  },
+  "288": {
+    "video_name": "NIA_SL_WORD0058_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "첫번째",
+    "duration": 3.1,
+    "start_sec": 1.331,
+    "end_sec": 1.831
+  },
+  "289": {
+    "video_name": "NIA_SL_WORD0058_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "첫번째",
+    "duration": 3.1,
+    "start_sec": 1.331,
+    "end_sec": 1.831
+  },
+  "290": {
+    "video_name": "NIA_SL_WORD0058_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "첫번째",
+    "duration": 3.1,
+    "start_sec": 1.331,
+    "end_sec": 1.831
+  },
+  "291": {
+    "video_name": "NIA_SL_WORD0059_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "운동경기",
+    "duration": 4.1,
+    "start_sec": 1.158,
+    "end_sec": 3.144
+  },
+  "292": {
+    "video_name": "NIA_SL_WORD0059_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "운동경기",
+    "duration": 4.1,
+    "start_sec": 1.158,
+    "end_sec": 3.144
+  },
+  "293": {
+    "video_name": "NIA_SL_WORD0059_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "운동경기",
+    "duration": 4.1,
+    "start_sec": 1.158,
+    "end_sec": 3.144
+  },
+  "294": {
+    "video_name": "NIA_SL_WORD0059_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "운동경기",
+    "duration": 4.1,
+    "start_sec": 1.158,
+    "end_sec": 3.144
+  },
+  "295": {
+    "video_name": "NIA_SL_WORD0059_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "운동경기",
+    "duration": 4.1,
+    "start_sec": 1.158,
+    "end_sec": 3.144
+  },
+  "296": {
+    "video_name": "NIA_SL_WORD0060_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "입원",
+    "duration": 4.267,
+    "start_sec": 1.651,
+    "end_sec": 3.415
+  },
+  "297": {
+    "video_name": "NIA_SL_WORD0060_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "입원",
+    "duration": 4.267,
+    "start_sec": 1.651,
+    "end_sec": 3.415
+  },
+  "298": {
+    "video_name": "NIA_SL_WORD0060_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "입원",
+    "duration": 4.267,
+    "start_sec": 1.651,
+    "end_sec": 3.415
+  },
+  "299": {
+    "video_name": "NIA_SL_WORD0060_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "입원",
+    "duration": 4.267,
+    "start_sec": 1.651,
+    "end_sec": 3.415
+  },
+  "300": {
+    "video_name": "NIA_SL_WORD0060_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "입원",
+    "duration": 4.267,
+    "start_sec": 1.651,
+    "end_sec": 3.415
+  },
+  "301": {
+    "video_name": "NIA_SL_WORD0061_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "재혼",
+    "duration": 4,
+    "start_sec": 1.319,
+    "end_sec": 2.51
+  },
+  "302": {
+    "video_name": "NIA_SL_WORD0061_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "재혼",
+    "duration": 4,
+    "start_sec": 1.319,
+    "end_sec": 2.51
+  },
+  "303": {
+    "video_name": "NIA_SL_WORD0061_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "재혼",
+    "duration": 4,
+    "start_sec": 1.319,
+    "end_sec": 2.51
+  },
+  "304": {
+    "video_name": "NIA_SL_WORD0061_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "재혼",
+    "duration": 4,
+    "start_sec": 1.319,
+    "end_sec": 2.51
+  },
+  "305": {
+    "video_name": "NIA_SL_WORD0061_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "재혼",
+    "duration": 4,
+    "start_sec": 1.319,
+    "end_sec": 2.51
+  },
+  "306": {
+    "video_name": "NIA_SL_WORD0062_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "진단서",
+    "duration": 4.567,
+    "start_sec": 1.325,
+    "end_sec": 3.528
+  },
+  "307": {
+    "video_name": "NIA_SL_WORD0062_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "진단서",
+    "duration": 4.567,
+    "start_sec": 1.325,
+    "end_sec": 3.528
+  },
+  "308": {
+    "video_name": "NIA_SL_WORD0062_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "진단서",
+    "duration": 4.567,
+    "start_sec": 1.325,
+    "end_sec": 3.528
+  },
+  "309": {
+    "video_name": "NIA_SL_WORD0062_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "진단서",
+    "duration": 4.567,
+    "start_sec": 1.325,
+    "end_sec": 3.528
+  },
+  "310": {
+    "video_name": "NIA_SL_WORD0062_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "진단서",
+    "duration": 4.567,
+    "start_sec": 1.325,
+    "end_sec": 3.528
+  },
+  "311": {
+    "video_name": "NIA_SL_WORD0063_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "축구장",
+    "duration": 3.8,
+    "start_sec": 1.158,
+    "end_sec": 2.649
+  },
+  "312": {
+    "video_name": "NIA_SL_WORD0063_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "축구장",
+    "duration": 3.8,
+    "start_sec": 1.158,
+    "end_sec": 2.649
+  },
+  "313": {
+    "video_name": "NIA_SL_WORD0063_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "축구장",
+    "duration": 3.8,
+    "start_sec": 1.158,
+    "end_sec": 2.649
+  },
+  "314": {
+    "video_name": "NIA_SL_WORD0063_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "축구장",
+    "duration": 3.8,
+    "start_sec": 1.158,
+    "end_sec": 2.649
+  },
+  "315": {
+    "video_name": "NIA_SL_WORD0063_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "축구장",
+    "duration": 3.8,
+    "start_sec": 1.158,
+    "end_sec": 2.649
+  },
+  "316": {
+    "video_name": "NIA_SL_WORD0064_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "치료",
+    "duration": 4.267,
+    "start_sec": 1.429,
+    "end_sec": 3.193
+  },
+  "317": {
+    "video_name": "NIA_SL_WORD0064_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "치료",
+    "duration": 4.267,
+    "start_sec": 1.429,
+    "end_sec": 3.193
+  },
+  "318": {
+    "video_name": "NIA_SL_WORD0064_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "치료",
+    "duration": 4.267,
+    "start_sec": 1.429,
+    "end_sec": 3.193
+  },
+  "319": {
+    "video_name": "NIA_SL_WORD0064_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "치료",
+    "duration": 4.267,
+    "start_sec": 1.429,
+    "end_sec": 3.193
+  },
+  "320": {
+    "video_name": "NIA_SL_WORD0064_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "치료",
+    "duration": 4.267,
+    "start_sec": 1.429,
+    "end_sec": 3.193
+  },
+  "321": {
+    "video_name": "NIA_SL_WORD0065_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "치료법",
+    "duration": 4.967,
+    "start_sec": 1.686,
+    "end_sec": 4.011
+  },
+  "322": {
+    "video_name": "NIA_SL_WORD0065_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "치료법",
+    "duration": 4.967,
+    "start_sec": 1.686,
+    "end_sec": 4.011
+  },
+  "323": {
+    "video_name": "NIA_SL_WORD0065_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "치료법",
+    "duration": 4.967,
+    "start_sec": 1.686,
+    "end_sec": 4.011
+  },
+  "324": {
+    "video_name": "NIA_SL_WORD0065_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "치료법",
+    "duration": 4.967,
+    "start_sec": 1.686,
+    "end_sec": 4.011
+  },
+  "325": {
+    "video_name": "NIA_SL_WORD0065_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "치료법",
+    "duration": 4.967,
+    "start_sec": 1.686,
+    "end_sec": 4.011
+  },
+  "326": {
+    "video_name": "NIA_SL_WORD0066_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "친아들",
+    "duration": 3.734,
+    "start_sec": 1.339,
+    "end_sec": 2.856
+  },
+  "327": {
+    "video_name": "NIA_SL_WORD0066_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "친아들",
+    "duration": 3.734,
+    "start_sec": 1.339,
+    "end_sec": 2.856
+  },
+  "328": {
+    "video_name": "NIA_SL_WORD0066_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "친아들",
+    "duration": 3.734,
+    "start_sec": 1.339,
+    "end_sec": 2.856
+  },
+  "329": {
+    "video_name": "NIA_SL_WORD0066_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "친아들",
+    "duration": 3.734,
+    "start_sec": 1.339,
+    "end_sec": 2.856
+  },
+  "330": {
+    "video_name": "NIA_SL_WORD0066_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "친아들",
+    "duration": 3.734,
+    "start_sec": 1.339,
+    "end_sec": 2.856
+  },
+  "331": {
+    "video_name": "NIA_SL_WORD0067_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "퇴원",
+    "duration": 4.1,
+    "start_sec": 1.484,
+    "end_sec": 3.079
+  },
+  "332": {
+    "video_name": "NIA_SL_WORD0067_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "퇴원",
+    "duration": 4.1,
+    "start_sec": 1.484,
+    "end_sec": 3.079
+  },
+  "333": {
+    "video_name": "NIA_SL_WORD0067_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "퇴원",
+    "duration": 4.1,
+    "start_sec": 1.484,
+    "end_sec": 3.079
+  },
+  "334": {
+    "video_name": "NIA_SL_WORD0067_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "퇴원",
+    "duration": 4.1,
+    "start_sec": 1.484,
+    "end_sec": 3.079
+  },
+  "335": {
+    "video_name": "NIA_SL_WORD0067_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "퇴원",
+    "duration": 4.1,
+    "start_sec": 1.484,
+    "end_sec": 3.079
+  },
+  "336": {
+    "video_name": "NIA_SL_WORD0068_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "한약",
+    "duration": 5.067,
+    "start_sec": 2.229,
+    "end_sec": 3.98
+  },
+  "337": {
+    "video_name": "NIA_SL_WORD0068_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "한약",
+    "duration": 5.067,
+    "start_sec": 2.229,
+    "end_sec": 3.98
+  },
+  "338": {
+    "video_name": "NIA_SL_WORD0068_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "한약",
+    "duration": 5.067,
+    "start_sec": 2.229,
+    "end_sec": 3.98
+  },
+  "339": {
+    "video_name": "NIA_SL_WORD0068_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "한약",
+    "duration": 5.067,
+    "start_sec": 2.229,
+    "end_sec": 3.98
+  },
+  "340": {
+    "video_name": "NIA_SL_WORD0068_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "한약",
+    "duration": 5.067,
+    "start_sec": 2.229,
+    "end_sec": 3.98
+  },
+  "341": {
+    "video_name": "NIA_SL_WORD0069_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "한약방",
+    "duration": 4.3,
+    "start_sec": 1.371,
+    "end_sec": 3.396
+  },
+  "342": {
+    "video_name": "NIA_SL_WORD0069_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "한약방",
+    "duration": 4.3,
+    "start_sec": 1.371,
+    "end_sec": 3.396
+  },
+  "343": {
+    "video_name": "NIA_SL_WORD0069_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "한약방",
+    "duration": 4.3,
+    "start_sec": 1.371,
+    "end_sec": 3.396
+  },
+  "344": {
+    "video_name": "NIA_SL_WORD0069_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "한약방",
+    "duration": 4.3,
+    "start_sec": 1.371,
+    "end_sec": 3.396
+  },
+  "345": {
+    "video_name": "NIA_SL_WORD0069_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "한약방",
+    "duration": 4.3,
+    "start_sec": 1.371,
+    "end_sec": 3.396
+  },
+  "346": {
+    "video_name": "NIA_SL_WORD0070_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "빈혈",
+    "duration": 5.034,
+    "start_sec": 2.392,
+    "end_sec": 4.039
+  },
+  "347": {
+    "video_name": "NIA_SL_WORD0070_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "빈혈",
+    "duration": 5.034,
+    "start_sec": 2.392,
+    "end_sec": 4.039
+  },
+  "348": {
+    "video_name": "NIA_SL_WORD0070_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "빈혈",
+    "duration": 5.034,
+    "start_sec": 2.392,
+    "end_sec": 4.039
+  },
+  "349": {
+    "video_name": "NIA_SL_WORD0070_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "빈혈",
+    "duration": 5.034,
+    "start_sec": 2.392,
+    "end_sec": 4.039
+  },
+  "350": {
+    "video_name": "NIA_SL_WORD0070_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "빈혈",
+    "duration": 5.034,
+    "start_sec": 2.392,
+    "end_sec": 4.039
+  },
+  "351": {
+    "video_name": "NIA_SL_WORD0071_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "화상",
+    "duration": 4.734,
+    "start_sec": 1.401,
+    "end_sec": 3.791
+  },
+  "352": {
+    "video_name": "NIA_SL_WORD0071_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "화상",
+    "duration": 4.734,
+    "start_sec": 1.401,
+    "end_sec": 3.791
+  },
+  "353": {
+    "video_name": "NIA_SL_WORD0071_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "화상",
+    "duration": 4.734,
+    "start_sec": 1.401,
+    "end_sec": 3.791
+  },
+  "354": {
+    "video_name": "NIA_SL_WORD0071_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "화상",
+    "duration": 4.734,
+    "start_sec": 1.401,
+    "end_sec": 3.791
+  },
+  "355": {
+    "video_name": "NIA_SL_WORD0071_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "화상",
+    "duration": 4.734,
+    "start_sec": 1.401,
+    "end_sec": 3.791
+  },
+  "356": {
+    "video_name": "NIA_SL_WORD0072_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "가래떡",
+    "duration": 3.634,
+    "start_sec": 1.135,
+    "end_sec": 2.547
+  },
+  "357": {
+    "video_name": "NIA_SL_WORD0072_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "가래떡",
+    "duration": 3.634,
+    "start_sec": 1.135,
+    "end_sec": 2.547
+  },
+  "358": {
+    "video_name": "NIA_SL_WORD0072_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "가래떡",
+    "duration": 3.634,
+    "start_sec": 1.135,
+    "end_sec": 2.547
+  },
+  "359": {
+    "video_name": "NIA_SL_WORD0072_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "가래떡",
+    "duration": 3.634,
+    "start_sec": 1.135,
+    "end_sec": 2.547
+  },
+  "360": {
+    "video_name": "NIA_SL_WORD0072_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "가래떡",
+    "duration": 3.634,
+    "start_sec": 1.135,
+    "end_sec": 2.547
+  },
+  "361": {
+    "video_name": "NIA_SL_WORD0073_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "고깃국",
+    "duration": 5.2,
+    "start_sec": 2.232,
+    "end_sec": 3.644
+  },
+  "362": {
+    "video_name": "NIA_SL_WORD0073_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "고깃국",
+    "duration": 5.2,
+    "start_sec": 2.232,
+    "end_sec": 3.644
+  },
+  "363": {
+    "video_name": "NIA_SL_WORD0073_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "고깃국",
+    "duration": 5.2,
+    "start_sec": 2.232,
+    "end_sec": 3.644
+  },
+  "364": {
+    "video_name": "NIA_SL_WORD0073_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "고깃국",
+    "duration": 5.2,
+    "start_sec": 2.232,
+    "end_sec": 3.644
+  },
+  "365": {
+    "video_name": "NIA_SL_WORD0073_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "고깃국",
+    "duration": 5.2,
+    "start_sec": 2.232,
+    "end_sec": 3.644
+  },
+  "366": {
+    "video_name": "NIA_SL_WORD0074_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "고추",
+    "duration": 4.6,
+    "start_sec": 1.762,
+    "end_sec": 3.07
+  },
+  "367": {
+    "video_name": "NIA_SL_WORD0074_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "고추",
+    "duration": 4.6,
+    "start_sec": 1.762,
+    "end_sec": 3.07
+  },
+  "368": {
+    "video_name": "NIA_SL_WORD0074_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "고추",
+    "duration": 4.6,
+    "start_sec": 1.762,
+    "end_sec": 3.07
+  },
+  "369": {
+    "video_name": "NIA_SL_WORD0074_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "고추",
+    "duration": 4.6,
+    "start_sec": 1.762,
+    "end_sec": 3.07
+  },
+  "370": {
+    "video_name": "NIA_SL_WORD0074_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "고추",
+    "duration": 4.6,
+    "start_sec": 1.762,
+    "end_sec": 3.07
+  },
+  "371": {
+    "video_name": "NIA_SL_WORD0075_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "고추가루",
+    "duration": 4.6,
+    "start_sec": 1.397,
+    "end_sec": 3.461
+  },
+  "372": {
+    "video_name": "NIA_SL_WORD0075_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "고추가루",
+    "duration": 4.6,
+    "start_sec": 1.397,
+    "end_sec": 3.461
+  },
+  "373": {
+    "video_name": "NIA_SL_WORD0075_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "고추가루",
+    "duration": 4.6,
+    "start_sec": 1.397,
+    "end_sec": 3.461
+  },
+  "374": {
+    "video_name": "NIA_SL_WORD0075_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "고추가루",
+    "duration": 4.6,
+    "start_sec": 1.397,
+    "end_sec": 3.461
+  },
+  "375": {
+    "video_name": "NIA_SL_WORD0075_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "고추가루",
+    "duration": 4.6,
+    "start_sec": 1.397,
+    "end_sec": 3.461
+  },
+  "376": {
+    "video_name": "NIA_SL_WORD0076_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "사골",
+    "duration": 4.3,
+    "start_sec": 1.241,
+    "end_sec": 3.123
+  },
+  "377": {
+    "video_name": "NIA_SL_WORD0076_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "사골",
+    "duration": 4.3,
+    "start_sec": 1.241,
+    "end_sec": 3.123
+  },
+  "378": {
+    "video_name": "NIA_SL_WORD0076_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "사골",
+    "duration": 4.3,
+    "start_sec": 1.241,
+    "end_sec": 3.123
+  },
+  "379": {
+    "video_name": "NIA_SL_WORD0076_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "사골",
+    "duration": 4.3,
+    "start_sec": 1.241,
+    "end_sec": 3.123
+  },
+  "380": {
+    "video_name": "NIA_SL_WORD0076_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "사골",
+    "duration": 4.3,
+    "start_sec": 1.241,
+    "end_sec": 3.123
+  },
+  "381": {
+    "video_name": "NIA_SL_WORD0077_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "배추국",
+    "duration": 5.134,
+    "start_sec": 2.114,
+    "end_sec": 4.087
+  },
+  "382": {
+    "video_name": "NIA_SL_WORD0077_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "배추국",
+    "duration": 5.134,
+    "start_sec": 2.114,
+    "end_sec": 4.087
+  },
+  "383": {
+    "video_name": "NIA_SL_WORD0077_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "배추국",
+    "duration": 5.134,
+    "start_sec": 2.114,
+    "end_sec": 4.087
+  },
+  "384": {
+    "video_name": "NIA_SL_WORD0077_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "배추국",
+    "duration": 5.134,
+    "start_sec": 2.114,
+    "end_sec": 4.087
+  },
+  "385": {
+    "video_name": "NIA_SL_WORD0077_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "배추국",
+    "duration": 5.134,
+    "start_sec": 2.114,
+    "end_sec": 4.087
+  },
+  "386": {
+    "video_name": "NIA_SL_WORD0078_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "꽈베기",
+    "duration": 4.1,
+    "start_sec": 1.327,
+    "end_sec": 3.014
+  },
+  "387": {
+    "video_name": "NIA_SL_WORD0078_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "꽈베기",
+    "duration": 4.1,
+    "start_sec": 1.327,
+    "end_sec": 3.014
+  },
+  "388": {
+    "video_name": "NIA_SL_WORD0078_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "꽈베기",
+    "duration": 4.1,
+    "start_sec": 1.327,
+    "end_sec": 3.014
+  },
+  "389": {
+    "video_name": "NIA_SL_WORD0078_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "꽈베기",
+    "duration": 4.1,
+    "start_sec": 1.327,
+    "end_sec": 3.014
+  },
+  "390": {
+    "video_name": "NIA_SL_WORD0078_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "꽈베기",
+    "duration": 4.1,
+    "start_sec": 1.327,
+    "end_sec": 3.014
+  },
+  "391": {
+    "video_name": "NIA_SL_WORD0079_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "벌꿀",
+    "duration": 4.3,
+    "start_sec": 1.358,
+    "end_sec": 3.122
+  },
+  "392": {
+    "video_name": "NIA_SL_WORD0079_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "벌꿀",
+    "duration": 4.3,
+    "start_sec": 1.358,
+    "end_sec": 3.122
+  },
+  "393": {
+    "video_name": "NIA_SL_WORD0079_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "벌꿀",
+    "duration": 4.3,
+    "start_sec": 1.358,
+    "end_sec": 3.122
+  },
+  "394": {
+    "video_name": "NIA_SL_WORD0079_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "벌꿀",
+    "duration": 4.3,
+    "start_sec": 1.358,
+    "end_sec": 3.122
+  },
+  "395": {
+    "video_name": "NIA_SL_WORD0079_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "벌꿀",
+    "duration": 4.3,
+    "start_sec": 1.358,
+    "end_sec": 3.122
+  },
+  "396": {
+    "video_name": "NIA_SL_WORD0080_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "꿀물",
+    "duration": 5.4,
+    "start_sec": 1.976,
+    "end_sec": 4.249
+  },
+  "397": {
+    "video_name": "NIA_SL_WORD0080_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "꿀물",
+    "duration": 5.4,
+    "start_sec": 1.976,
+    "end_sec": 4.249
+  },
+  "398": {
+    "video_name": "NIA_SL_WORD0080_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "꿀물",
+    "duration": 5.4,
+    "start_sec": 1.976,
+    "end_sec": 4.249
+  },
+  "399": {
+    "video_name": "NIA_SL_WORD0080_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "꿀물",
+    "duration": 5.4,
+    "start_sec": 1.976,
+    "end_sec": 4.249
+  },
+  "400": {
+    "video_name": "NIA_SL_WORD0080_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "꿀물",
+    "duration": 5.4,
+    "start_sec": 1.976,
+    "end_sec": 4.249
+  },
+  "401": {
+    "video_name": "NIA_SL_WORD0081_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "냄비",
+    "duration": 4.667,
+    "start_sec": 1.614,
+    "end_sec": 3.215
+  },
+  "402": {
+    "video_name": "NIA_SL_WORD0081_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "냄비",
+    "duration": 4.667,
+    "start_sec": 1.614,
+    "end_sec": 3.215
+  },
+  "403": {
+    "video_name": "NIA_SL_WORD0081_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "냄비",
+    "duration": 4.667,
+    "start_sec": 1.614,
+    "end_sec": 3.215
+  },
+  "404": {
+    "video_name": "NIA_SL_WORD0081_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "냄비",
+    "duration": 4.667,
+    "start_sec": 1.614,
+    "end_sec": 3.215
+  },
+  "405": {
+    "video_name": "NIA_SL_WORD0081_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "냄비",
+    "duration": 4.667,
+    "start_sec": 1.614,
+    "end_sec": 3.215
+  },
+  "406": {
+    "video_name": "NIA_SL_WORD0082_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "찬물",
+    "duration": 3.934,
+    "start_sec": 1.262,
+    "end_sec": 2.591
+  },
+  "407": {
+    "video_name": "NIA_SL_WORD0082_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "찬물",
+    "duration": 3.934,
+    "start_sec": 1.262,
+    "end_sec": 2.591
+  },
+  "408": {
+    "video_name": "NIA_SL_WORD0082_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "찬물",
+    "duration": 3.934,
+    "start_sec": 1.262,
+    "end_sec": 2.591
+  },
+  "409": {
+    "video_name": "NIA_SL_WORD0082_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "찬물",
+    "duration": 3.934,
+    "start_sec": 1.262,
+    "end_sec": 2.591
+  },
+  "410": {
+    "video_name": "NIA_SL_WORD0082_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "찬물",
+    "duration": 3.934,
+    "start_sec": 1.262,
+    "end_sec": 2.591
+  },
+  "411": {
+    "video_name": "NIA_SL_WORD0083_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "다과",
+    "duration": 3.267,
+    "start_sec": 1.342,
+    "end_sec": 2.128
+  },
+  "412": {
+    "video_name": "NIA_SL_WORD0083_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "다과",
+    "duration": 3.267,
+    "start_sec": 1.342,
+    "end_sec": 2.128
+  },
+  "413": {
+    "video_name": "NIA_SL_WORD0083_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "다과",
+    "duration": 3.267,
+    "start_sec": 1.342,
+    "end_sec": 2.128
+  },
+  "414": {
+    "video_name": "NIA_SL_WORD0083_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "다과",
+    "duration": 3.267,
+    "start_sec": 1.342,
+    "end_sec": 2.128
+  },
+  "415": {
+    "video_name": "NIA_SL_WORD0083_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "다과",
+    "duration": 3.267,
+    "start_sec": 1.342,
+    "end_sec": 2.128
+  },
+  "416": {
+    "video_name": "NIA_SL_WORD0084_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "지방경찰청장",
+    "duration": 5.134,
+    "start_sec": 1.782,
+    "end_sec": 4.022
+  },
+  "417": {
+    "video_name": "NIA_SL_WORD0084_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "지방경찰청장",
+    "duration": 5.134,
+    "start_sec": 1.782,
+    "end_sec": 4.022
+  },
+  "418": {
+    "video_name": "NIA_SL_WORD0084_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "지방경찰청장",
+    "duration": 5.134,
+    "start_sec": 1.782,
+    "end_sec": 4.022
+  },
+  "419": {
+    "video_name": "NIA_SL_WORD0084_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "지방경찰청장",
+    "duration": 5.134,
+    "start_sec": 1.782,
+    "end_sec": 4.022
+  },
+  "420": {
+    "video_name": "NIA_SL_WORD0084_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "지방경찰청장",
+    "duration": 5.134,
+    "start_sec": 1.782,
+    "end_sec": 4.022
+  },
+  "421": {
+    "video_name": "NIA_SL_WORD0085_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "된장찌게",
+    "duration": 4.2,
+    "start_sec": 1.392,
+    "end_sec": 3.007
+  },
+  "422": {
+    "video_name": "NIA_SL_WORD0085_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "된장찌게",
+    "duration": 4.2,
+    "start_sec": 1.392,
+    "end_sec": 3.007
+  },
+  "423": {
+    "video_name": "NIA_SL_WORD0085_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "된장찌게",
+    "duration": 4.2,
+    "start_sec": 1.392,
+    "end_sec": 3.007
+  },
+  "424": {
+    "video_name": "NIA_SL_WORD0085_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "된장찌게",
+    "duration": 4.2,
+    "start_sec": 1.392,
+    "end_sec": 3.007
+  },
+  "425": {
+    "video_name": "NIA_SL_WORD0085_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "된장찌게",
+    "duration": 4.2,
+    "start_sec": 1.392,
+    "end_sec": 3.007
+  },
+  "426": {
+    "video_name": "NIA_SL_WORD0086_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "돼지고기",
+    "duration": 4.167,
+    "start_sec": 1.421,
+    "end_sec": 2.872
+  },
+  "427": {
+    "video_name": "NIA_SL_WORD0086_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "돼지고기",
+    "duration": 4.167,
+    "start_sec": 1.421,
+    "end_sec": 2.872
+  },
+  "428": {
+    "video_name": "NIA_SL_WORD0086_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "돼지고기",
+    "duration": 4.167,
+    "start_sec": 1.421,
+    "end_sec": 2.872
+  },
+  "429": {
+    "video_name": "NIA_SL_WORD0086_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "돼지고기",
+    "duration": 4.167,
+    "start_sec": 1.421,
+    "end_sec": 2.872
+  },
+  "430": {
+    "video_name": "NIA_SL_WORD0086_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "돼지고기",
+    "duration": 4.167,
+    "start_sec": 1.421,
+    "end_sec": 2.872
+  },
+  "431": {
+    "video_name": "NIA_SL_WORD0087_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "두부",
+    "duration": 3.667,
+    "start_sec": 1.259,
+    "end_sec": 2.398
+  },
+  "432": {
+    "video_name": "NIA_SL_WORD0087_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "두부",
+    "duration": 3.667,
+    "start_sec": 1.259,
+    "end_sec": 2.398
+  },
+  "433": {
+    "video_name": "NIA_SL_WORD0087_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "두부",
+    "duration": 3.667,
+    "start_sec": 1.259,
+    "end_sec": 2.398
+  },
+  "434": {
+    "video_name": "NIA_SL_WORD0087_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "두부",
+    "duration": 3.667,
+    "start_sec": 1.259,
+    "end_sec": 2.398
+  },
+  "435": {
+    "video_name": "NIA_SL_WORD0087_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "두부",
+    "duration": 3.667,
+    "start_sec": 1.259,
+    "end_sec": 2.398
+  },
+  "436": {
+    "video_name": "NIA_SL_WORD0088_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "딸기",
+    "duration": 4.267,
+    "start_sec": 1.677,
+    "end_sec": 3.05
+  },
+  "437": {
+    "video_name": "NIA_SL_WORD0088_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "딸기",
+    "duration": 4.267,
+    "start_sec": 1.677,
+    "end_sec": 3.05
+  },
+  "438": {
+    "video_name": "NIA_SL_WORD0088_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "딸기",
+    "duration": 4.267,
+    "start_sec": 1.677,
+    "end_sec": 3.05
+  },
+  "439": {
+    "video_name": "NIA_SL_WORD0088_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "딸기",
+    "duration": 4.267,
+    "start_sec": 1.677,
+    "end_sec": 3.05
+  },
+  "440": {
+    "video_name": "NIA_SL_WORD0088_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "딸기",
+    "duration": 4.267,
+    "start_sec": 1.677,
+    "end_sec": 3.05
+  },
+  "441": {
+    "video_name": "NIA_SL_WORD0089_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "떡국",
+    "duration": 4.434,
+    "start_sec": 1.622,
+    "end_sec": 3.021
+  },
+  "442": {
+    "video_name": "NIA_SL_WORD0089_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "떡국",
+    "duration": 4.434,
+    "start_sec": 1.622,
+    "end_sec": 3.021
+  },
+  "443": {
+    "video_name": "NIA_SL_WORD0089_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "떡국",
+    "duration": 4.434,
+    "start_sec": 1.622,
+    "end_sec": 3.021
+  },
+  "444": {
+    "video_name": "NIA_SL_WORD0089_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "떡국",
+    "duration": 4.434,
+    "start_sec": 1.622,
+    "end_sec": 3.021
+  },
+  "445": {
+    "video_name": "NIA_SL_WORD0089_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "떡국",
+    "duration": 4.434,
+    "start_sec": 1.622,
+    "end_sec": 3.021
+  },
+  "446": {
+    "video_name": "NIA_SL_WORD0090_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "라면",
+    "duration": 3.934,
+    "start_sec": 1.591,
+    "end_sec": 2.951
+  },
+  "447": {
+    "video_name": "NIA_SL_WORD0090_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "라면",
+    "duration": 3.934,
+    "start_sec": 1.591,
+    "end_sec": 2.951
+  },
+  "448": {
+    "video_name": "NIA_SL_WORD0090_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "라면",
+    "duration": 3.934,
+    "start_sec": 1.591,
+    "end_sec": 2.951
+  },
+  "449": {
+    "video_name": "NIA_SL_WORD0090_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "라면",
+    "duration": 3.934,
+    "start_sec": 1.591,
+    "end_sec": 2.951
+  },
+  "450": {
+    "video_name": "NIA_SL_WORD0090_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "라면",
+    "duration": 3.934,
+    "start_sec": 1.591,
+    "end_sec": 2.951
+  },
+  "451": {
+    "video_name": "NIA_SL_WORD0091_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "막걸리",
+    "duration": 4.334,
+    "start_sec": 1.186,
+    "end_sec": 3.073
+  },
+  "452": {
+    "video_name": "NIA_SL_WORD0091_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "막걸리",
+    "duration": 4.334,
+    "start_sec": 1.186,
+    "end_sec": 3.073
+  },
+  "453": {
+    "video_name": "NIA_SL_WORD0091_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "막걸리",
+    "duration": 4.334,
+    "start_sec": 1.186,
+    "end_sec": 3.073
+  },
+  "454": {
+    "video_name": "NIA_SL_WORD0091_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "막걸리",
+    "duration": 4.334,
+    "start_sec": 1.186,
+    "end_sec": 3.073
+  },
+  "455": {
+    "video_name": "NIA_SL_WORD0091_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "막걸리",
+    "duration": 4.334,
+    "start_sec": 1.186,
+    "end_sec": 3.073
+  },
+  "456": {
+    "video_name": "NIA_SL_WORD0092_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "무",
+    "duration": 3.834,
+    "start_sec": 1.284,
+    "end_sec": 2.777
+  },
+  "457": {
+    "video_name": "NIA_SL_WORD0092_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "무",
+    "duration": 3.834,
+    "start_sec": 1.284,
+    "end_sec": 2.777
+  },
+  "458": {
+    "video_name": "NIA_SL_WORD0092_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "무",
+    "duration": 3.834,
+    "start_sec": 1.284,
+    "end_sec": 2.777
+  },
+  "459": {
+    "video_name": "NIA_SL_WORD0092_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "무",
+    "duration": 3.834,
+    "start_sec": 1.284,
+    "end_sec": 2.777
+  },
+  "460": {
+    "video_name": "NIA_SL_WORD0092_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "무",
+    "duration": 3.834,
+    "start_sec": 1.284,
+    "end_sec": 2.777
+  },
+  "461": {
+    "video_name": "NIA_SL_WORD0093_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "밥그릇",
+    "duration": 3.667,
+    "start_sec": 1.008,
+    "end_sec": 2.501
+  },
+  "462": {
+    "video_name": "NIA_SL_WORD0093_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "밥그릇",
+    "duration": 3.667,
+    "start_sec": 1.008,
+    "end_sec": 2.501
+  },
+  "463": {
+    "video_name": "NIA_SL_WORD0093_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "밥그릇",
+    "duration": 3.667,
+    "start_sec": 1.008,
+    "end_sec": 2.501
+  },
+  "464": {
+    "video_name": "NIA_SL_WORD0093_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "밥그릇",
+    "duration": 3.667,
+    "start_sec": 1.008,
+    "end_sec": 2.501
+  },
+  "465": {
+    "video_name": "NIA_SL_WORD0093_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "밥그릇",
+    "duration": 3.667,
+    "start_sec": 1.008,
+    "end_sec": 2.501
+  },
+  "466": {
+    "video_name": "NIA_SL_WORD0094_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "밥솥",
+    "duration": 4.267,
+    "start_sec": 1.785,
+    "end_sec": 3.21
+  },
+  "467": {
+    "video_name": "NIA_SL_WORD0094_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "밥솥",
+    "duration": 4.267,
+    "start_sec": 1.785,
+    "end_sec": 3.21
+  },
+  "468": {
+    "video_name": "NIA_SL_WORD0094_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "밥솥",
+    "duration": 4.267,
+    "start_sec": 1.785,
+    "end_sec": 3.21
+  },
+  "469": {
+    "video_name": "NIA_SL_WORD0094_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "밥솥",
+    "duration": 4.267,
+    "start_sec": 1.785,
+    "end_sec": 3.21
+  },
+  "470": {
+    "video_name": "NIA_SL_WORD0094_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "밥솥",
+    "duration": 4.267,
+    "start_sec": 1.785,
+    "end_sec": 3.21
+  },
+  "471": {
+    "video_name": "NIA_SL_WORD0095_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "보신탕",
+    "duration": 4.5,
+    "start_sec": 1.412,
+    "end_sec": 3.503
+  },
+  "472": {
+    "video_name": "NIA_SL_WORD0095_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "보신탕",
+    "duration": 4.5,
+    "start_sec": 1.412,
+    "end_sec": 3.503
+  },
+  "473": {
+    "video_name": "NIA_SL_WORD0095_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "보신탕",
+    "duration": 4.5,
+    "start_sec": 1.412,
+    "end_sec": 3.503
+  },
+  "474": {
+    "video_name": "NIA_SL_WORD0095_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "보신탕",
+    "duration": 4.5,
+    "start_sec": 1.412,
+    "end_sec": 3.503
+  },
+  "475": {
+    "video_name": "NIA_SL_WORD0095_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "보신탕",
+    "duration": 4.5,
+    "start_sec": 1.412,
+    "end_sec": 3.503
+  },
+  "476": {
+    "video_name": "NIA_SL_WORD0096_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "부엌",
+    "duration": 3.8,
+    "start_sec": 1.411,
+    "end_sec": 2.672
+  },
+  "477": {
+    "video_name": "NIA_SL_WORD0096_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "부엌",
+    "duration": 3.8,
+    "start_sec": 1.411,
+    "end_sec": 2.672
+  },
+  "478": {
+    "video_name": "NIA_SL_WORD0096_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "부엌",
+    "duration": 3.8,
+    "start_sec": 1.411,
+    "end_sec": 2.672
+  },
+  "479": {
+    "video_name": "NIA_SL_WORD0096_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "부엌",
+    "duration": 3.8,
+    "start_sec": 1.411,
+    "end_sec": 2.672
+  },
+  "480": {
+    "video_name": "NIA_SL_WORD0096_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "부엌",
+    "duration": 3.8,
+    "start_sec": 1.411,
+    "end_sec": 2.672
+  },
+  "481": {
+    "video_name": "NIA_SL_WORD0097_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "소불고기",
+    "duration": 3.834,
+    "start_sec": 1.27,
+    "end_sec": 2.926
+  },
+  "482": {
+    "video_name": "NIA_SL_WORD0097_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "소불고기",
+    "duration": 3.834,
+    "start_sec": 1.27,
+    "end_sec": 2.926
+  },
+  "483": {
+    "video_name": "NIA_SL_WORD0097_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "소불고기",
+    "duration": 3.834,
+    "start_sec": 1.27,
+    "end_sec": 2.926
+  },
+  "484": {
+    "video_name": "NIA_SL_WORD0097_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "소불고기",
+    "duration": 3.834,
+    "start_sec": 1.27,
+    "end_sec": 2.926
+  },
+  "485": {
+    "video_name": "NIA_SL_WORD0097_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "소불고기",
+    "duration": 3.834,
+    "start_sec": 1.27,
+    "end_sec": 2.926
+  },
+  "486": {
+    "video_name": "NIA_SL_WORD0098_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "비빔밥",
+    "duration": 4.034,
+    "start_sec": 1.566,
+    "end_sec": 3.045
+  },
+  "487": {
+    "video_name": "NIA_SL_WORD0098_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "비빔밥",
+    "duration": 4.034,
+    "start_sec": 1.566,
+    "end_sec": 3.045
+  },
+  "488": {
+    "video_name": "NIA_SL_WORD0098_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "비빔밥",
+    "duration": 4.034,
+    "start_sec": 1.566,
+    "end_sec": 3.045
+  },
+  "489": {
+    "video_name": "NIA_SL_WORD0098_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "비빔밥",
+    "duration": 4.034,
+    "start_sec": 1.566,
+    "end_sec": 3.045
+  },
+  "490": {
+    "video_name": "NIA_SL_WORD0098_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "비빔밥",
+    "duration": 4.034,
+    "start_sec": 1.566,
+    "end_sec": 3.045
+  },
+  "491": {
+    "video_name": "NIA_SL_WORD0099_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "사과",
+    "duration": 3.867,
+    "start_sec": 1.426,
+    "end_sec": 2.864
+  },
+  "492": {
+    "video_name": "NIA_SL_WORD0099_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "사과",
+    "duration": 3.867,
+    "start_sec": 1.426,
+    "end_sec": 2.864
+  },
+  "493": {
+    "video_name": "NIA_SL_WORD0099_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "사과",
+    "duration": 3.867,
+    "start_sec": 1.426,
+    "end_sec": 2.864
+  },
+  "494": {
+    "video_name": "NIA_SL_WORD0099_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "사과",
+    "duration": 3.867,
+    "start_sec": 1.426,
+    "end_sec": 2.864
+  },
+  "495": {
+    "video_name": "NIA_SL_WORD0099_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "사과",
+    "duration": 3.867,
+    "start_sec": 1.426,
+    "end_sec": 2.864
+  },
+  "496": {
+    "video_name": "NIA_SL_WORD0100_REAL01_D.mp4",
+    "view": "D",
+    "attribute": "사이다",
+    "duration": 3.834,
+    "start_sec": 1.583,
+    "end_sec": 2.708
+  },
+  "497": {
+    "video_name": "NIA_SL_WORD0100_REAL01_F.mp4",
+    "view": "F",
+    "attribute": "사이다",
+    "duration": 3.834,
+    "start_sec": 1.583,
+    "end_sec": 2.708
+  },
+  "498": {
+    "video_name": "NIA_SL_WORD0100_REAL01_L.mp4",
+    "view": "L",
+    "attribute": "사이다",
+    "duration": 3.834,
+    "start_sec": 1.583,
+    "end_sec": 2.708
+  },
+  "499": {
+    "video_name": "NIA_SL_WORD0100_REAL01_R.mp4",
+    "view": "R",
+    "attribute": "사이다",
+    "duration": 3.834,
+    "start_sec": 1.583,
+    "end_sec": 2.708
+  },
+  "500": {
+    "video_name": "NIA_SL_WORD0100_REAL01_U.mp4",
+    "view": "U",
+    "attribute": "사이다",
+    "duration": 3.834,
+    "start_sec": 1.583,
+    "end_sec": 2.708
+  }
+}
