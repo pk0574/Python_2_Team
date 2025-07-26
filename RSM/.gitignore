@@ -404,3 +404,5 @@ FodyWeavers.xsd
 #추가
 Enviroments/Pilot_01/Lib/
 Enviroments/Pilot_02/hearing_impaired_helper_make_model/datasets/
+Enviroments/Pilot_02/hearing_impaired_helper_make_model/*.md
+
