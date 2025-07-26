@@ -14,7 +14,7 @@ from modules.holistic_module import HolisticDetector
 
 # ─── 1) 한글 폰트 로드 ────────────────────────────────────────────
 # 프로젝트 폴더에 NanumGothic.ttf 같은 한글 폰트 파일을 두세요.
-FONT_PATH = "fonts/D2Coding-Ver1.3.2-20180524.ttf"  
+FONT_PATH = "reference/fonts/D2Coding-Ver1.3.2-20180524.ttf"  
 font = ImageFont.truetype(FONT_PATH, 24)
 
 # ─── 2) 클래스(라벨) 로드 ───────────────────────────────────────
