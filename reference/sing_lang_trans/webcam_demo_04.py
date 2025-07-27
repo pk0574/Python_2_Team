@@ -153,8 +153,8 @@ while True:
         pred_label = classes[pred_idx]
         confirm_buffer.append(pred_label)
 
-        # F) 확정: 동일 레이블이 5회 연속될 때 ‘확정’으로 간주
-        if len(confirm_buffer) == confirm_buffer.maxlen and len(set(confirm_buffer)) == 1 and len(action_buffer) == action_buffer.maxlen and len(set(action_buffer)) == 1:
+        # F) 확정: 동일 레이블이 5회 연속될 때 ‘확정’으로 간주 and len(action_buffer) == action_buffer.maxlen and len(set(action_buffer)) == 1
+        if len(confirm_buffer) == confirm_buffer.maxlen and len(set(confirm_buffer)) == 1 :
             # 새로운 확정 결과라면 스택에 push
             if not output_stack or output_stack[0] != pred_label:
                 output_stack.appendleft(pred_label)
